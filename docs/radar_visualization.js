@@ -7,7 +7,7 @@ radar_visualization({
     grid: "#bbb",
     inactive: "#ddd"
   },
-  title: "HMPPS Digital Tech Radar — November 2022",
+  title: "HMPPS Digital Tech Radar — January 2023",
   quadrants: [
     { name: "Techniques" },
     { name: "Tooling" },
@@ -27,7 +27,7 @@ radar_visualization({
      {
         quadrant: 1,
         ring: 0,
-        label: "Code - Github",
+        label: "Code - GitHub",
         active: true,
         link: "",
         moved: 0
@@ -51,7 +51,7 @@ radar_visualization({
      {
         quadrant: 1,
         ring: 3,
-        label: "Code - Sonarqube",
+        label: "Code - SonarQube",
         active: true,
         link: "",
         moved: 0
@@ -59,15 +59,7 @@ radar_visualization({
      {
         quadrant: 1,
         ring: 0,
-        label: "CI - Circle CI",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 1,
-        ring: 2,
-        label: "CI - Jenkins",
+        label: "CI - CircleCI",
         active: true,
         link: "",
         moved: 0
@@ -90,14 +82,6 @@ radar_visualization({
       },
      {
         quadrant: 1,
-        ring: 3,
-        label: "Dev - SBT (Scala build tool)",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 1,
         ring: 2,
         label: "Dev - Make",
         active: true,
@@ -107,7 +91,7 @@ radar_visualization({
      {
         quadrant: 1,
         ring: 0,
-        label: "Dev - Docker-compose",
+        label: "Dev - Docker Compose",
         active: true,
         link: "",
         moved: 0
@@ -146,22 +130,6 @@ radar_visualization({
       },
      {
         quadrant: 1,
-        ring: 1,
-        label: "DB - SQL Clone",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 1,
-        ring: 1,
-        label: "DB - ADO",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 1,
         ring: 0,
         label: "Platform - Kubernetes/Helm",
         active: true,
@@ -194,14 +162,6 @@ radar_visualization({
       },
      {
         quadrant: 1,
-        ring: 3,
-        label: "IaC - Ansible (VMs only)",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 1,
         ring: 0,
         label: "JS - Standard JS",
         active: true,
@@ -211,7 +171,7 @@ radar_visualization({
      {
         quadrant: 1,
         ring: 0,
-        label: "JS - ES Lint",
+        label: "JS - ESLint",
         active: true,
         link: "",
         moved: 0
@@ -283,22 +243,38 @@ radar_visualization({
      {
         quadrant: 1,
         ring: 3,
-        label: "App - Weblogic",
+        label: "App - WebLogic",
         active: true,
         link: "",
         moved: 0
       },
      {
         quadrant: 1,
-        ring: 1,
-        label: "Security - OWASP ZAP",
+        ring: 0,
+        label: "Security - dependency-check-gradle",
         active: true,
         link: "",
         moved: 0
       },
      {
         quadrant: 1,
-        ring: 1,
+        ring: 0,
+        label: "Security - npm security audit",
+        active: true,
+        link: "",
+        moved: 0
+      },
+     {
+        quadrant: 1,
+        ring: 0,
+        label: "Security - Trivy",
+        active: true,
+        link: "",
+        moved: 0
+      },
+     {
+        quadrant: 1,
+        ring: 2,
         label: "Security - Snyk",
         active: true,
         link: "",
@@ -307,7 +283,7 @@ radar_visualization({
      {
         quadrant: 1,
         ring: 0,
-        label: "Monitoring - Prometheus (inc Alert Mgr)",
+        label: "Monitoring - Prometheus (inc AlertManager)",
         active: true,
         link: "",
         moved: 0
@@ -315,7 +291,7 @@ radar_visualization({
      {
         quadrant: 1,
         ring: 0,
-        label: "Monitoring - App Insights",
+        label: "Monitoring - Application Insights",
         active: true,
         link: "",
         moved: 0
@@ -339,7 +315,7 @@ radar_visualization({
      {
         quadrant: 1,
         ring: 0,
-        label: "Monitoring - Pager Duty",
+        label: "Monitoring - PagerDuty",
         active: true,
         link: "",
         moved: 0
@@ -356,14 +332,6 @@ radar_visualization({
         quadrant: 1,
         ring: 0,
         label: "Monitoring - Sentry",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 1,
-        ring: 1,
-        label: "Auth - Keycloak",
         active: true,
         link: "",
         moved: 0
@@ -386,8 +354,8 @@ radar_visualization({
       },
      {
         quadrant: 3,
-        ring: 0,
-        label: "Javascript (JS)",
+        ring: 2,
+        label: "JavaScript (JS)",
         active: true,
         link: "",
         moved: 0
@@ -443,14 +411,14 @@ radar_visualization({
      {
         quadrant: 3,
         ring: 0,
-        label: "JS - Typescript",
+        label: "JS - TypeScript",
         active: true,
         link: "",
         moved: 0
       },
      {
         quadrant: 3,
-        ring: 1,
+        ring: 3,
         label: "Next.js",
         active: true,
         link: "",
@@ -474,7 +442,7 @@ radar_visualization({
       },
      {
         quadrant: 3,
-        ring: 2,
+        ring: 3,
         label: "Angular",
         active: true,
         link: "",
@@ -482,7 +450,7 @@ radar_visualization({
       },
      {
         quadrant: 3,
-        ring: 0,
+        ring: 2,
         label: "Java",
         active: true,
         link: "",
@@ -499,15 +467,7 @@ radar_visualization({
      {
         quadrant: 3,
         ring: 0,
-        label: "Kotlin (Sheffield)",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 3,
-        ring: 1,
-        label: "Kotlin (London)",
+        label: "Kotlin",
         active: true,
         link: "",
         moved: 0
@@ -515,23 +475,15 @@ radar_visualization({
      {
         quadrant: 3,
         ring: 2,
-        label: "Ruby (London)",
+        label: "Ruby",
         active: true,
         link: "",
         moved: 0
       },
      {
         quadrant: 3,
-        ring: 3,
-        label: "Python (London)",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 3,
-        ring: 3,
-        label: "Ruby (Sheffield)",
+        ring: 2,
+        label: "Python",
         active: true,
         link: "",
         moved: 0
@@ -540,14 +492,6 @@ radar_visualization({
         quadrant: 3,
         ring: 0,
         label: "Java - JPA",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 3,
-        ring: 1,
-        label: "Rust",
         active: true,
         link: "",
         moved: 0
@@ -651,14 +595,6 @@ radar_visualization({
      {
         quadrant: 2,
         ring: 0,
-        label: "AWS Public Cloud",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 2,
-        ring: 0,
         label: "AWS - S3",
         active: true,
         link: "",
@@ -690,56 +626,8 @@ radar_visualization({
       },
      {
         quadrant: 2,
-        ring: 1,
-        label: "AWS - Serverless",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 2,
-        ring: 3,
-        label: "AWS - EC2",
-        active: true,
-        link: "",
-        moved: -1
-      },
-     {
-        quadrant: 2,
-        ring: 3,
-        label: "AWS - ECS",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 2,
-        ring: 3,
-        label: "AWS - Beanstalk",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 2,
         ring: 0,
-        label: "AWS - Localstack (Dev)",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 2,
-        ring: 3,
-        label: "AWS - ECR (private repo)",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 2,
-        ring: 0,
-        label: "Docker Hub (public)",
+        label: "AWS - LocalStack (Dev)",
         active: true,
         link: "",
         moved: 0
@@ -796,30 +684,6 @@ radar_visualization({
         quadrant: 2,
         ring: 3,
         label: "DB - Mongo",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 2,
-        ring: 1,
-        label: "AWS - MSK (Kafka)",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 2,
-        ring: 3,
-        label: "Azure - AKS",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 2,
-        ring: 2,
-        label: "Azure Public Cloud",
         active: true,
         link: "",
         moved: 0
@@ -883,15 +747,7 @@ radar_visualization({
      {
         quadrant: 0,
         ring: 0,
-        label: "Container Scanning",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 0,
-        ring: 1,
-        label: "A/B Testing",
+        label: "Security Scanning Workflow",
         active: true,
         link: "",
         moved: 0
@@ -970,15 +826,7 @@ radar_visualization({
       },
      {
         quadrant: 0,
-        ring: 1,
-        label: "Hateoas (Ext APIS)",
-        active: true,
-        link: "",
-        moved: 0
-      },
-     {
-        quadrant: 0,
-        ring: 1,
+        ring: 2,
         label: "Consumer Driven Contracts",
         active: true,
         link: "",

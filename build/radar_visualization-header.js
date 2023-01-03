@@ -7,7 +7,7 @@ radar_visualization({
     grid: "#bbb",
     inactive: "#ddd"
   },
-  title: "HMPPS Digital Tech Radar — November 2022",
+  title: "HMPPS Digital Tech Radar — January 2023",
   quadrants: [
     { name: "Techniques" },
     { name: "Tooling" },

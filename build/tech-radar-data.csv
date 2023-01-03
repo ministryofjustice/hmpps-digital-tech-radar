@@ -1,28 +1,23 @@
 name,quadrant,ring,up/down?,description
-Code - Github,Tooling,Adopt,FALSE,"A development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside 40 million developers. "
+Code - GitHub,Tooling,Adopt,FALSE,"A development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside 40 million developers. "
 Code - Prettier,Tooling,Adopt,FALSE,An opinionated code formatter; Supports many languages; Integrates with most editors.
 Code - SASS,Tooling,Adopt,FALSE,"CSS with superpowers. Sass is the most mature, stable, and powerful professional grade CSS extension language in the world."
-Code - Sonarqube,Tooling,Reduce-and-remove,FALSE,"An open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages."
-CI - Circle CI,Tooling,Adopt,FALSE,"Cloud hosted CI tool providing a continuous integration and continuous delivery platform to build, test, and deploy software."
-CI - Jenkins,Tooling,Hold,FALSE,"An open source automation server which enables developers around the world to reliably build, test, and deploy their software."
+Code - SonarQube,Tooling,Reduce-and-remove,FALSE,"An open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages."
+CI - CircleCI,Tooling,Adopt,FALSE,"Cloud hosted CI tool providing a continuous integration and continuous delivery platform to build, test, and deploy software."
 Dev - Gradle (Kotlin-based),Tooling,Adopt,FALSE,An open-source build automation system that builds upon the concepts of Apache Ant and Apache Maven and introduces a Groovy or Kotlin -based domain-specific language instead of the XML form used by Apache Maven for declaring the project configuration.
 Dev - Gradle (Groovy-based),Tooling,Reduce-and-remove,FALSE,An open-source build automation system that builds upon the concepts of Apache Ant and Apache Maven and introduces a Groovy or Kotlin -based domain-specific language instead of the XML form used by Apache Maven for declaring the project configuration.
-Dev - SBT (Scala build tool),Tooling,Reduce-and-remove,FALSE,"An open-source build tool for Scala and Java projects, similar to Java's Maven and Ant."
-Dev - Make,Tooling,Hold,FALSE,A tool which controls the generation of executables and other non-source files of a program from the program's source files. 
-Dev - Docker-compose,Tooling,Adopt,FALSE,"(Dev only - not for Production use).  A tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application's services."
+Dev - Make,Tooling,Hold,FALSE,A tool which controls the generation of executables and other non-source files of a program from the program's source files.
+Dev - Docker Compose,Tooling,Adopt,FALSE,"(Dev only - not for Production use).  A tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application's services."
 Dev - Postman,Tooling,Adopt,FALSE,A collaboration platform for API development. Postman's features simplify each step of building an API and streamline collaboration so you can create better APIs - faster.
 Dev - IntelliJ,Tooling,Adopt,FALSE,"A cross-platform IDE/source code editor primarily aimed at JVM-based technologies such as Java, Groovy, Kotlin, and Scala but it also supports Java EE and web development. An open-source version is available under the name IntelliJ IDEA Community Edition, and a proprietary version as IntelliJ IDEA Ultimate Edition. IntelliJ IDEA Ultimate Edition can be made to include the feature set of PhpStorm, PyCharm and RubyMine via plugins. "
 Dev - VSCode,Tooling,Adopt,FALSE,"A source-code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control and GitHub, syntax highlighting, intelligent code completion, snippets, and code refactoring."
 DB - Flyway,Tooling,Adopt,FALSE,"Version control for your database. Robust schema evolution across all your environments. With ease, pleasure and plain SQL."
-DB - SQL Clone,Tooling,Trial,FALSE,A database provisioning tool that lets you create full copies of SQL Server databases and backups in seconds
-DB - ADO,Tooling,Trial,FALSE,"ActiveX Data Objects (ADO) is a high-level, easy-to-use interface to OLE DB."
 Platform - Kubernetes/Helm,Tooling,Adopt,FALSE,"An open-source container-orchestration system for automating application deployment, scaling, and management. Helm helps you manage Kubernetes applications — Helm Charts help you define, install, and upgrade even the most complex Kubernetes application."
 Platform - Docker,Tooling,Adopt,FALSE,"A lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings."
 IaC - Terraform,Tooling,Adopt,FALSE,"Use Infrastructure as Code to provision and manage any cloud, infrastructure, or service.  Write declarative configuration files, Plan and predict changes, Create reproducible infrastructure."
 IaC - Terragrunt,Tooling,Hold,FALSE,A thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules. - gruntwork-io/terragrunt.
-IaC - Ansible (VMs only),Tooling,Reduce-and-remove,FALSE,"An open-source software provisioning, configuration management, and application-deployment tool. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration."
 JS - Standard JS,Tooling,Adopt,FALSE,"A JavaScript style guide, linter, and formatter"
-JS - ES Lint,Tooling,Adopt,FALSE,A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.
+JS - ESLint,Tooling,Adopt,FALSE,A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.
 JS - NPM / NVM,Tooling,Adopt,FALSE,NPS is a package manager for the JavaScript programming language. NVM is a version manager for node.js.
 JS - Webpack,Tooling,Adopt,FALSE,"A module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging"
 JS - Yarn,Tooling,Reduce-and-remove,FALSE,A package manager that doubles down as project manager.
@@ -31,40 +26,38 @@ JS - Gulp,Tooling,Reduce-and-remove,FALSE,"A toolkit for automating painful or t
 JS - Grunt,Tooling,Hold,FALSE,"A JavaScript task runner, a tool used to automatically perform frequent tasks such as minification, compilation, unit testing, and linting."
 App - Tomcat,Tooling,Reduce-and-remove,FALSE,"Apache Tomcat is an open-source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and WebSocket technologies."
 App - JBoss (WildFly),Tooling,Reduce-and-remove,FALSE,"WildFly, formerly known as JBoss is a Java EE application server authored by JBoss, now developed by Red Hat. Open-source with optional Red Hat support."
-App - Weblogic,Tooling,Reduce-and-remove,FALSE,Oracle WebLogic Server is a Java EE application server currently developed by Oracle Corporation. 
-Security - OWASP ZAP,Tooling,Trial,FALSE,An open-source web application security scanner. It is intended to be used by both those new to application security as well as professional penetration testers. It is one of the most active Open Web Application Security Project projects and has been given Flagship status.
-Security - Snyk,Tooling,Trial,FALSE,"Helps you use open source and stay secure. Continuously find and fix vulnerabilities for npm, Maven, NuGet, RubyGems, PyPI and much more."
-Monitoring - Prometheus (inc Alert Mgr),Tooling,Adopt,FALSE,"An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach."
-Monitoring - App Insights,Tooling,Adopt,FALSE,"A feature of Azure Monitor - an extensible Application Performance Management (APM) service for developers and DevOps professionals. Use it to monitor your live applications. It will automatically detect performance anomalies, and includes powerful analytics tools."
+App - WebLogic,Tooling,Reduce-and-remove,FALSE,Oracle WebLogic Server is a Java EE application server currently developed by Oracle Corporation.
+Security - dependency-check-gradle,Tooling,Adopt,FALSE,The dependency-check gradle plugin allows projects to monitor dependent libraries for known, published vulnerabilities.
+Security - npm security audit,Tooling,Adopt,FALSE,A security audit is an assessment of package dependencies for security vulnerabilities. Security audits help you protect your package's users by enabling you to find and fix known vulnerabilities in dependencies that could cause data loss, service outages, unauthorized access to sensitive information, or other issues.
+Security - Trivy,Tooling,Adopt,FALSE,Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+Security - Snyk,Tooling,Hold,FALSE,"Helps you use open source and stay secure. Continuously find and fix vulnerabilities for npm, Maven, NuGet, RubyGems, PyPI and much more."
+Monitoring - Prometheus (inc AlertManager),Tooling,Adopt,FALSE,"An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach."
+Monitoring - Application Insights,Tooling,Adopt,FALSE,"A feature of Azure Monitor - an extensible Application Performance Management (APM) service for developers and DevOps professionals. Use it to monitor your live applications. It will automatically detect performance anomalies, and includes powerful analytics tools."
 Monitoring - Elastic/Kibana,Tooling,Adopt,FALSE,"A distributed, open source search and analytics engine for all types of data, including textual, numerical, geospatial, structured, and unstructured."
 Monitoring - Grafana,Tooling,Adopt,FALSE,An open source analytics & monitoring solution for every database.
-Monitoring - Pager Duty,Tooling,Adopt,FALSE,A real-time operations platform providing on-call management and incident response. Less downtime and fewer outages means happier customers and more productive teams.
+Monitoring - PagerDuty,Tooling,Adopt,FALSE,A real-time operations platform providing on-call management and incident response. Less downtime and fewer outages means happier customers and more productive teams.
 Monitoring - Pingdom,Tooling,Adopt,FALSE,Monitor your website's availability and performance with Pingdom and always be the first to know when your website is down.
 Monitoring - Sentry,Tooling,Adopt,FALSE,"An error monitoring tool that helps software teams discover, triage, and prioritize errors in real-time."
-Auth - Keycloak,Tooling,Trial,FALSE,An open source software product to allow single sign-on with Identity Management and Access Management aimed at modern applications and services.
 Node.js,Language-and-Frameworks,Adopt,FALSE,A JavaScript runtime built on Chrome's V8 JavaScript engine.
 Node.js - Express,Language-and-Frameworks,Adopt,FALSE,A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications and APIs.
-Javascript (JS),Language-and-Frameworks,Adopt,FALSE,"JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions"
+JavaScript (JS),Language-and-Frameworks,Hold,FALSE,"JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions"
 JS - Nunjucks,Language-and-Frameworks,Adopt,FALSE,"A more sophisticated templating engine for JavaScript. Rich Powerful language with block inheritance, autoescaping, macros, asynchronous control, and more. Heavily inspired by jinja2."
 JS - Jest (testing),Language-and-Frameworks,Adopt,FALSE,"A delightful JavaScript Testing Framework with a focus on simplicity.  It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more!"
 JS - Mocha (testing),Language-and-Frameworks,Adopt,FALSE,"A feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases."
 JS - Chai (testing),Language-and-Frameworks,Adopt,FALSE,A BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 JS - Sinon (testing),Language-and-Frameworks,Adopt,FALSE,"Standalone test spies, stubs and mocks for JavaScript.  Works with any unit testing framework."
 JS - Cypress (testing),Language-and-Frameworks,Adopt,FALSE,A JavaScript End to End Testing Framework
-JS - Typescript,Language-and-Frameworks,Adopt,FALSE,A typed superset of JavaScript that compiles to plain JavaScript.
-Next.js,Language-and-Frameworks,Trial,FALSE,"An opinionated framework that simplifies routing, renders on the server side by default and streamlines dependencies and builds."
+JS - TypeScript,Language-and-Frameworks,Adopt,FALSE,A typed superset of JavaScript that compiles to plain JavaScript.
+Next.js,Language-and-Frameworks,Reduce-and-remove,FALSE,"An opinionated framework that simplifies routing, renders on the server side by default and streamlines dependencies and builds."
 React for static,Language-and-Frameworks,Hold,FALSE,A progressive static-site generator for React.
 Geb,Language-and-Frameworks,Hold,FALSE,"A very Groovy browser automation. Web Testing, Screen Scraping and more."
-Angular,Language-and-Frameworks,Hold,FALSE,A platform for building mobile and desktop web applications.
-Java,Language-and-Frameworks,Adopt,FALSE,"A powerful general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded systems, and so on."
+Angular,Language-and-Frameworks,Reduce-and-remove,FALSE,A platform for building mobile and desktop web applications.
+Java,Language-and-Frameworks,Hold,FALSE,"A powerful general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded systems, and so on."
 Spring Boot,Language-and-Frameworks,Adopt,FALSE,"A Java-based framework which makes it easy to create stand-alone, production-grade Spring based Applications that you can ""just run""."
-Kotlin (Sheffield),Language-and-Frameworks,Adopt,FALSE,"A modern programming language that makes developers happier.  Good for Mobile cross-platform, Native, Data science, Server-side, Web development, Android.  Kotlin is Concise, Safe, Interoperable with existing libraries for the JVM, Android, and the browser and Tool-friendly."
-Kotlin (London),Language-and-Frameworks,Trial,FALSE,"A modern programming language that makes developers happier.  Good for Mobile cross-platform, Native, Data science, Server-side, Web development, Android.  Kotlin is Concise, Safe, Interoperable with existing libraries for the JVM, Android, and the browser and Tool-friendly."
-Ruby (London),Language-and-Frameworks,Hold,FALSE,"A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write."
-Python (London),Language-and-Frameworks,Reduce-and-remove,FALSE,A programming language that lets you work quickly and integrate systems more effectively.
-Ruby (Sheffield),Language-and-Frameworks,Reduce-and-remove,FALSE,"A modern programming language that makes developers happier.  Good for Mobile cross-platform, Native, Data science, Server-side, Web development, Android.  Kotlin is Concise, Safe, Interoperable with existing libraries for the JVM, Android, and the browser and Tool-friendly."
+Kotlin,Language-and-Frameworks,Adopt,FALSE,"A modern programming language that makes developers happier.  Good for Mobile cross-platform, Native, Data science, Server-side, Web development, Android.  Kotlin is Concise, Safe, Interoperable with existing libraries for the JVM, Android, and the browser and Tool-friendly."
+Ruby,Language-and-Frameworks,Hold,FALSE,"A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write."
+Python,Language-and-Frameworks,Hold,FALSE,A programming language that lets you work quickly and integrate systems more effectively.
 Java - JPA,Language-and-Frameworks,Adopt,FALSE,A Java API specification that describes the management of relational data in applications.  Java Persistence API (also Jakarta Persistence).
-Rust,Language-and-Frameworks,Trial,FALSE,A language empowering everyone to build reliable and efficient software.
 Groovy,Language-and-Frameworks,Hold,FALSE,"A powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming. "
 C#,Language-and-Frameworks,Reduce-and-remove,FALSE,"A general-purpose, multi-paradigm programming language encompassing strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.  Typically used with .NET."
 PHP,Language-and-Frameworks,Reduce-and-remove,FALSE,"A server scripting language, and a powerful tool for making dynamic and interactive Web pages."
@@ -77,18 +70,11 @@ PowerShell,Language-and-Frameworks,Adopt,FALSE,"A task-based command-line shell 
 PLSQL,Language-and-Frameworks,Reduce-and-remove,FALSE,A combination of SQL along with the procedural features of programming languages. It was developed by Oracle Corporation in the early 90's to enhance the capabilities of SQL.
 Selenium,Language-and-Frameworks,Adopt,FALSE,"A portable framework for testing web applications. Selenium provides a playback tool for authoring functional tests without the need to learn a test scripting language (Selenium IDE). ... The tests can then run against most modern web browsers. Selenium runs on Windows, Linux"
 _MoJ_ Cloud Platform,Platforms,Adopt,FALSE,"The MoJ Cloud Platform (CP) is a kubernetes cluster, running in the “moj-cp” Amazon AWS account, inside a Virtual Private Cloud (VPC) which isolates the cluster and the AWS resources used by services running in the cluster. https://user-guide.cloud-platform.service.justice.gov.uk/documentation/concepts/cp-overview.html#cloud-platform-overview"
-AWS Public Cloud,Platforms,Adopt,FALSE,"Amazon Web Services (AWS) is a comprehensive cloud platform, offering over 175 fully featured services from data centers globally."
 AWS - S3,Platforms,Adopt,FALSE,"Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance."
 AWS - SNS,Platforms,Adopt,FALSE,"Amazon Simple Notification Service (SNS) is a highly available, durable, secure, fully managed pub/sub messaging service that enables you to decouple microservices, distributed systems, and serverless applications."
 AWS - SQS,Platforms,Adopt,FALSE,"Amazon Simple Queue Service (SQS) is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications."
 AWS - ElastiCache Redis,Platforms,Adopt,FALSE,"A fully managed Redis and Memcached. Seamlessly deploy, operate, and scale popular open source compatible in-memory data.  A blazing fast in-memory data store that provides sub-millisecond latency to power internet-scale real-time applications."
-AWS - Serverless,Platforms,Trial,FALSE,"Serverless is the native architecture of the cloud that enables you to shift more of your operational responsibilities to AWS, increasing your agility and innovation. Serverless allows you to build and run applications and services without thinking about servers. It eliminates infrastructure management tasks such as server or cluster provisioning, patching, operating system maintenance, and capacity provisioning."
-AWS - EC2,Platforms,Reduce-and-remove,DOWN,"Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. Virtual Machines on-demand."
-AWS - ECS,Platforms,Reduce-and-remove,FALSE,"A fully managed container orchestration service. Customers such as Duolingo, Samsung, GE, and Cook Pad use ECS to run their most sensitive and mission critical applications because of its security, reliability, and scalability."
-AWS - Beanstalk,Platforms,Reduce-and-remove,FALSE,"An easy-to-use service for deploying and scaling web applications and services developed with Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker on familiar servers such as Apache, Nginx, Passenger, and IIS."
-AWS - Localstack (Dev),Platforms,Adopt,FALSE,A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
-AWS - ECR (private repo),Platforms,Reduce-and-remove,FALSE,"Amazon Elastic Container Registry (ECR) is a fully-managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images."
-Docker Hub (public),Platforms,Adopt,FALSE,A container repository service for finding and sharing container images with your team. It provides the following major features: Repositories: Push and pull container images. ... Webhooks: Trigger actions after a successful push to a repository to integrate Docker Hub with other services.
+AWS - LocalStack (Dev),Platforms,Adopt,FALSE,A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 Quay Docker Repo,Platforms,Adopt,FALSE,"A container repository service that [builds, analyzes, distributes] your container images"
 DB - Cloud Managed DBs,Platforms,Adopt,FALSE,"Managed databases are typically provided by the cloud provider as-a-Service and takes over many of the difficult or tedious management tasks of a managing a database.  It is typically scalable, manages backups, software patching, automatic failure detection, and recovery."
 DB - Postgres RDS,Platforms,Adopt,FALSE,"With Amazon RDS, you can deploy scalable PostgreSQL deployments in minutes with cost-efficient and resizable hardware capacity. Amazon RDS manages complex and time-consuming administrative tasks such as PostgreSQL software installation and upgrades; storage management; replication for high availability and read throughput; and backups for disaster recovery."
@@ -96,9 +82,6 @@ DB - Postgres (non DBaaS),Platforms,Reduce-and-remove,FALSE,
 DB - Oracle (all),Platforms,Reduce-and-remove,FALSE,
 DB - SQL Server (non DBaaS),Platforms,Reduce-and-remove,FALSE,
 DB - Mongo,Platforms,Reduce-and-remove,FALSE,
-AWS - MSK (Kafka),Platforms,Trial,FALSE,
-Azure - AKS,Platforms,Reduce-and-remove,FALSE,
-Azure Public Cloud,Platforms,Hold,FALSE,
 Agile,Techniques,Adopt,FALSE,
 Scrum,Techniques,Adopt,FALSE,
 Kanban,Techniques,Adopt,FALSE,
@@ -106,8 +89,7 @@ GDS Service,Techniques,Adopt,FALSE,
 Waterfall,Techniques,Reduce-and-remove,FALSE,
 DevOps,Techniques,Adopt,FALSE,
 CI/CD,Techniques,Adopt,FALSE,
-Container Scanning,Techniques,Adopt,FALSE,
-A/B Testing,Techniques,Trial,FALSE,
+Security Scanning Workflow,Techniques,Adopt,FALSE,
 Trunk based development,Techniques,Adopt,FALSE,
 Feature switching,Techniques,Adopt,FALSE,
 PR Review,Techniques,Adopt,FALSE,
@@ -117,6 +99,5 @@ BDD,Techniques,Adopt,FALSE,
 TDD,Techniques,Adopt,FALSE,
 Domain Driven Design,Techniques,Adopt,FALSE,
 REST API,Techniques,Adopt,FALSE,
-Hateoas (Ext APIS),Techniques,Trial,FALSE,
-Consumer Driven Contracts,Techniques,Trial,FALSE,
+Consumer Driven Contracts,Techniques,Hold,FALSE,
 ADR,Techniques,Adopt,FALSE,
