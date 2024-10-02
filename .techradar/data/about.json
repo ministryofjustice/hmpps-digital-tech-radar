@@ -1,0 +1,5 @@
+{
+  "id": "about",
+  "data": {},
+  "body": "<h1>How to use the Technology Radar</h1>\n<h3>Introduction</h3>\n<p>Edit this file to your needs to provide an introduction to the technology radar. Explain the purpose\nof the radar and how it is created. This is a good place to explain the quadrants and rings, too.</p>\n<h3>Contributing to the AOE Technology Radar</h3>\n<p>Contributions and source code of the AOE Tech Radar are on\nGitHub: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://github.com/AOEpeople/aoe_technology_radar\">AOE Tech Radar on GitHub</a></p>\n"
+}

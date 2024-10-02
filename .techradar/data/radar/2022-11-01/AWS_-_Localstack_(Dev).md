@@ -1,0 +1,8 @@
+---
+title: "AWS - Localstack (Dev)"
+quadrant: "platforms-and-operations"
+ring: "adopt"
+tags: []
+---
+
+A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!

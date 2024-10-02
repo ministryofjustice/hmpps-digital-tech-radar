@@ -1,29 +1,12 @@
 {
-  "name": "zalando-tech-radar",
-  "version": "2018.5.0",
-  "description": "Visualizing our technology choices",
-  "homepage": "https://github.com/ministryofjustice/hmpps-digital-tech-radar/blob/main/README.md",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ministryofjustice/hmpps-digital-tech-radar.git"
-  },
+  "name": "aoe-techradar",
+  "version": "1.0.0",
   "license": "MIT",
-  "directories": {
-    "doc": "docs"
-  },
-  "engines": {
-    "node": ">= 18",
-    "npm": ">= 8"
-  },
-  "devDependencies": {
-    "browser-sync": "^2.27.10",
-    "eslint": "^8.27.0",
-    "htmllint": "^0.8.0"
-  },
   "scripts": {
-    "start": "browser-sync docs -w",
-    "lint": "npm run lint:js && npm run lint:html",
-    "lint:js": "eslint docs/*.js",
-    "lint:html": "htmllint docs/*.html"
+    "build": "techradar build",
+    "serve": "techradar serve"
+  },
+  "dependencies": {
+    "aoe_technology_radar": "^4"
   }
 }
