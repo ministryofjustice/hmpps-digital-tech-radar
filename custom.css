@@ -6,11 +6,15 @@ span[class^='Badge_colored'], span[class*='Badge_colored']{
     color: white!important
 }
 
+button[class^='Badge_selected'], button[class*='Badge_selected']{
+    color: white!important
+}
+
 span[class^='Radar_tooltip'], span[class*='Radar_tooltip']{
     color: white
 }
 
-span[class^='Legend_icon'], span[class*='Legend_icon']{
+svg[class^='Legend_icon'], span[class*='Legend_icon']{
     color: #1d70b8
 }
 
@@ -25,3 +29,14 @@ ul[class^='Navigation_list'] > li:nth-child(1) {
 div[class^='Footer_branding'], ul[class*='Footer_branding']{
     visibility: hidden;
 }
+
+a[class^='Footer_imprint'] {
+    visibility: hidden;
+}
+
+input[class^='QueryFilter_input'] {
+    color: black;
+    background: white;
+    border: 1px solid black;
+}
+
