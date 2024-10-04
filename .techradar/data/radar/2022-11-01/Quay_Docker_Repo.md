@@ -2,7 +2,7 @@
 title: "Quay Docker Repo"
 quadrant: "platforms-and-operations"
 ring: "adopt"
-tags: []
+tags: [hmpps]
 ---
 
 "A container repository service that [builds, analyzes, distributes] your container images"

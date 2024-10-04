@@ -1,5 +1,5 @@
 ---
-title: "Ruby (Sheffield)"
+title: "Ruby"
 quadrant: "languages-and-frameworks"
 ring: "reduce"
 tags: [hmpps]

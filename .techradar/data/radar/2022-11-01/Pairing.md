@@ -2,7 +2,7 @@
 title: "Pairing"
 quadrant: "methods-and-patterns"
 ring: "adopt"
-tags: []
+tags: [hmpps]
 ---
 
 

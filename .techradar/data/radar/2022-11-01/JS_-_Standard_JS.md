@@ -2,7 +2,7 @@
 title: "JS - Standard JS"
 quadrant: "tools"
 ring: "adopt"
-tags: []
+tags: [hmpps]
 ---
 
 "A JavaScript style guide, linter, and formatter"

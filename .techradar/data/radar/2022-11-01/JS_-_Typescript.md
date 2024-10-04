@@ -2,7 +2,7 @@
 title: "JS - Typescript"
 quadrant: "languages-and-frameworks"
 ring: "adopt"
-tags: []
+tags: [hmpps]
 ---
 
 A typed superset of JavaScript that compiles to plain JavaScript.
