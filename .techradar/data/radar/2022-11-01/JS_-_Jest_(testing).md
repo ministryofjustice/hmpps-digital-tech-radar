@@ -5,4 +5,4 @@ ring: "adopt"
 tags: [hmpps]
 ---
 
-"A delightful JavaScript Testing Framework with a focus on simplicity.  It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more!"
+Jest is a JavaScript testing framework developed by Facebook, designed to simplify the process of writing unit tests for JavaScript applications. It provides a robust set of features, including a zero-config setup, built-in assertions, test runners, and tools for mocking and spying on functions, making it easy to test both synchronous and asynchronous code.

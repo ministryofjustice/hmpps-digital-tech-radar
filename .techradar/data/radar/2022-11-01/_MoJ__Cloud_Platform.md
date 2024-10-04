@@ -1,8 +1,15 @@
 ---
-title: "_MoJ_ Cloud Platform"
+title: "MoJ Cloud Platform"
 quadrant: "platforms-and-operations"
 ring: "adopt"
 tags: [hmpps]
 ---
+The Ministry of Justice’s Cloud Platform is a modern, cloud-native hosting platform for digital services built within the Ministry of Justice.
 
-"The MoJ Cloud Platform (CP) is a kubernetes cluster, running in the “moj-cp” Amazon AWS account, inside a Virtual Private Cloud (VPC) which isolates the cluster and the AWS resources used by services running in the cluster. https://user-guide.cloud-platform.service.justice.gov.uk/documentation/concepts/cp-overview.html#cloud-platform-overview"
+The Cloud Platform provides a way for teams to:
+
+* deploy a service or application into the cloud
+* utilise common tooling, such as monitoring, logging, alerting, and security scanning of container images, without teams needing to configure or manage the infrastructure
+* implement zero downtime deploys, scalability, and high availability of services
+
+[https://user-guide.cloud-platform.service.justice.gov.uk/](https://https://user-guide.cloud-platform.service.justice.gov.uk/)

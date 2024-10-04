@@ -5,4 +5,4 @@ ring: "adopt"
 tags: [hmpps]
 ---
 
-"A fully managed Redis and Memcached. Seamlessly deploy, operate, and scale popular open source compatible in-memory data.  A blazing fast in-memory data store that provides sub-millisecond latency to power internet-scale real-time applications."
+Amazon ElastiCache for Redis is a fully managed, in-memory caching service provided by AWS that allows users to deploy, operate, and scale Redis, an open-source, in-memory data structure store. ElastiCache for Redis is designed to improve the performance of applications by providing quick data retrieval and caching capabilities, enabling faster response times and reduced latency for frequently accessed data.

@@ -5,4 +5,4 @@ ring: "reduce"
 tags: [hmpps]
 ---
 
-"Amazon Elastic Container Registry (ECR) is a fully-managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images."
+AWS ECR (Elastic Container Registry) is a fully managed container registry service that allows developers to store, manage, and deploy Docker container images. It integrates with Amazon ECS, EKS, and other services, enabling seamless workflows for deploying containerized applications.

@@ -5,4 +5,4 @@ ring: "trial"
 tags: [hmpps]
 ---
 
-"An opinionated framework that simplifies routing, renders on the server side by default and streamlines dependencies and builds."
+Next.js is a React framework that enables server-side rendering and static site generation, allowing developers to build fast, optimized web applications with features like automatic code splitting, routing, and API routes. It enhances performance and SEO by rendering pages on the server and supports incremental static regeneration for dynamic content.

@@ -5,4 +5,4 @@ ring: "adopt"
 tags: [hmpps]
 ---
 
-A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+AWS LocalStack is an open-source tool that simulates AWS cloud services on a local machine, allowing developers to test and develop cloud applications offline. It provides a local environment for a wide range of AWS services, enabling faster development cycles without incurring costs or requiring internet connectivity.

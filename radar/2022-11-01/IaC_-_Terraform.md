@@ -1,8 +1,8 @@
 ---
-title: "IaC - Terraform"
+title: "Terraform"
 quadrant: "tools"
 ring: "adopt"
-tags: [hmpps]
+tags: [hmpps, Infrastructure as code]
 ---
 
-"Use Infrastructure as Code to provision and manage any cloud, infrastructure, or service.  Write declarative configuration files, Plan and predict changes, Create reproducible infrastructure."
+Terraform is an open-source infrastructure as code (IaC) tool that enables users to define, provision, and manage cloud infrastructure using a declarative configuration language. It allows for automated deployment and scaling of resources across various cloud providers, ensuring consistent and reproducible infrastructure management.

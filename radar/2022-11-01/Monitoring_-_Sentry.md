@@ -1,8 +1,8 @@
 ---
-title: "Monitoring - Sentry"
+title: "Sentry"
 quadrant: "tools"
 ring: "adopt"
-tags: [hmpps]
+tags: [hmpps, Monitoring]
 ---
 
-"An error monitoring tool that helps software teams discover, triage, and prioritize errors in real-time."
+An error monitoring tool that helps software teams discover, triage, and prioritize errors in real-time.

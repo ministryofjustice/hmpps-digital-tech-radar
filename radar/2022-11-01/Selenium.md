@@ -5,4 +5,4 @@ ring: "adopt"
 tags: [hmpps]
 ---
 
-"A portable framework for testing web applications. Selenium provides a playback tool for authoring functional tests without the need to learn a test scripting language (Selenium IDE). ... The tests can then run against most modern web browsers. Selenium runs on Windows, Linux"
+Selenium is an open-source framework used for automating web applications for testing purposes. It allows developers to write tests in various programming languages (such as Java, Python, and C#) to simulate user interactions with web browsers, ensuring that web applications function correctly across different platforms and browsers.

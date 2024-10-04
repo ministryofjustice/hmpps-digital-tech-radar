@@ -5,4 +5,4 @@ ring: "reduce"
 tags: [hmpps]
 ---
 
-"A general-purpose, multi-paradigm programming language encompassing strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.  Typically used with .NET."
+A general-purpose, multi-paradigm programming language encompassing strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.  Typically used with .NET.

@@ -5,4 +5,4 @@ ring: "adopt"
 tags: [hmpps]
 ---
 
-"A feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases."
+Mocha is a popular JavaScript test framework that runs on Node.js and in the browser, allowing developers to write and execute asynchronous tests. It provides a flexible structure for organizing tests and supports various assertion libraries, making it easy to create unit and integration tests for JavaScript applications.

@@ -5,4 +5,4 @@ ring: "reduce"
 tags: [hmpps]
 ---
 
-"Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. Virtual Machines on-demand."
+AWS EC2 (Amazon Elastic Compute Cloud) is a web service that provides scalable virtual servers, known as instances, in the cloud. It allows users to run applications, manage storage, and configure compute capacity on-demand with flexibility and control over resources.

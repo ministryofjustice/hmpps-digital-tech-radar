@@ -1,8 +1,8 @@
 ---
-title: "Security - Snyk"
+title: "Snyk"
 quadrant: "tools"
 ring: "trial"
-tags: [hmpps]
+tags: [hmpps, Security]
 ---
 
-"Helps you use open source and stay secure. Continuously find and fix vulnerabilities for npm, Maven, NuGet, RubyGems, PyPI and much more."
+Snyk is a developer security platform that helps organizations find and fix vulnerabilities in their applications, open-source libraries, containers, and infrastructure as code. It integrates into the development workflow to provide real-time feedback and remediation suggestions, promoting secure coding practices.

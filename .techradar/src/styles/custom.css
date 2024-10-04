@@ -40,3 +40,7 @@ input[class^='QueryFilter_input'] {
     border: 1px solid black;
 }
 
+div[class^='ItemDetail_content'], ul[class*='ItemDetail_content']{
+    color: black;
+}
+

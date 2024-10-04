@@ -5,4 +5,4 @@ ring: "reduce"
 tags: [hmpps]
 ---
 
-"WildFly, formerly known as JBoss is a Java EE application server authored by JBoss, now developed by Red Hat. Open-source with optional Red Hat support."
+JBoss WildFly is an open-source Java application server that implements the Java EE (Enterprise Edition) specifications. It provides a runtime environment for developing and deploying enterprise-level applications, offering features like scalability, security, and support for modern Java frameworks and APIs. WildFly is known for its modularity, lightweight footprint, and fast startup times.

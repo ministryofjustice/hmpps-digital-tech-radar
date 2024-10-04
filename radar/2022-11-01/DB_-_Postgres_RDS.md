@@ -5,4 +5,4 @@ ring: "adopt"
 tags: [hmpps]
 ---
 
-"With Amazon RDS, you can deploy scalable PostgreSQL deployments in minutes with cost-efficient and resizable hardware capacity. Amazon RDS manages complex and time-consuming administrative tasks such as PostgreSQL software installation and upgrades; storage management; replication for high availability and read throughput; and backups for disaster recovery."
+PostgreSQL RDS (Relational Database Service) is a managed database service provided by Amazon Web Services (AWS) that allows users to set up, operate, and scale PostgreSQL databases in the cloud. It automates tasks such as backups, patching, and scaling, making it easier for developers to manage databases without the need for extensive administrative overhead.

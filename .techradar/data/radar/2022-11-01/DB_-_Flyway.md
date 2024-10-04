@@ -5,4 +5,4 @@ ring: "adopt"
 tags: [hmpps]
 ---
 
-"Version control for your database. Robust schema evolution across all your environments. With ease, pleasure and plain SQL."
+Flyway is an open-source database migration tool that helps manage version control for databases. It enables developers to apply, track, and version database schema changes through a series of migration scripts, ensuring that the database is consistently updated across different environments.

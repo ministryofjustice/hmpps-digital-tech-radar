@@ -5,4 +5,4 @@ ring: "adopt"
 tags: [hmpps]
 ---
 
-"Standalone test spies, stubs and mocks for JavaScript.  Works with any unit testing framework."
+Standalone test spies, stubs and mocks for JavaScript.  Works with any unit testing framework.

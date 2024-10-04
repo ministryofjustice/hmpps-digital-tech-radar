@@ -5,4 +5,4 @@ ring: "adopt"
 tags: [hmpps]
 ---
 
-"CSS with superpowers. Sass is the most mature, stable, and powerful professional grade CSS extension language in the world."
+CSS with superpowers. Sass (Syntactically Awesome Style Sheets) is a preprocessor scripting language that extends CSS with features like variables, nested rules, mixins, and functions, making it easier to write and maintain stylesheets. It compiles into standard CSS, enhancing the styling capabilities of web projects.

@@ -1,8 +1,8 @@
 ---
-title: "Monitoring - Pager Duty"
+title: "Pager Duty"
 quadrant: "tools"
 ring: "adopt"
-tags: [hmpps]
+tags: [hmpps, Monitoring]
 ---
 
-A real-time operations platform providing on-call management and incident response. Less downtime and fewer outages means happier customers and more productive teams.
+PagerDuty is a digital operations management platform that helps organizations manage incidents, monitor systems, and improve response times. It provides tools for alerting, escalation, and on-call scheduling, ensuring that the right team members are notified promptly to address critical issues in IT and DevOps environments.
