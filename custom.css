@@ -1,0 +1,46 @@
+/* Use this file to optionally override global css styles and use with caution. */
+/* See README.md for hints and examples: https://github.com/AOEpeople/aoe_technology_radar/ */
+
+
+span[class^='Badge_colored'], span[class*='Badge_colored']{
+    color: white!important
+}
+
+button[class^='Badge_selected'], button[class*='Badge_selected']{
+    color: white!important
+}
+
+span[class^='Radar_tooltip'], span[class*='Radar_tooltip']{
+    color: white
+}
+
+svg[class^='Legend_icon'], span[class*='Legend_icon']{
+    color: #1d70b8
+}
+
+g[class*='Chart_ringLabels'] > text {
+    font-weight: bold;
+}
+
+ul[class^='Navigation_list'] > li:nth-child(1) {
+    visibility: hidden;
+}
+
+div[class^='Footer_branding'], ul[class*='Footer_branding']{
+    visibility: hidden;
+}
+
+a[class^='Footer_imprint'] {
+    visibility: hidden;
+}
+
+input[class^='QueryFilter_input'] {
+    color: black;
+    background: white;
+    border: 1px solid black;
+}
+
+div[class^='ItemDetail_content'], ul[class*='ItemDetail_content']{
+    color: black;
+}
+
