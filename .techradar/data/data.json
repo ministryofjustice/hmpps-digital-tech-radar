@@ -36,12 +36,12 @@
         "Languages and frameworks"
       ],
       "position": [
-        128,
-        256
+        97,
+        314
       ]
     },
     {
-      "id": "DB_-_ADO",
+      "id": "ADO",
       "release": "2022-11-01",
       "title": "ADO",
       "ring": "trial",
@@ -54,8 +54,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        507,
-        601
+        492,
+        636
       ]
     },
     {
@@ -72,8 +72,8 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        469,
-        351
+        462,
+        273
       ]
     },
     {
@@ -90,12 +90,12 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        470,
-        377
+        431,
+        389
       ]
     },
     {
-      "id": "AWS_-_S3",
+      "id": "S3",
       "release": "2022-11-01",
       "title": "Amazon S3",
       "ring": "adopt",
@@ -109,8 +109,8 @@
         "AWS"
       ],
       "position": [
-        356,
-        411
+        363,
+        453
       ]
     },
     {
@@ -127,12 +127,12 @@
         "Languages and frameworks"
       ],
       "position": [
-        162,
-        191
+        156,
+        200
       ]
     },
     {
-      "id": "IaC_-_Ansible_(VMs_only)",
+      "id": "Ansible_(VMs_only)",
       "release": "2022-11-01",
       "title": "Ansible (VMs only)",
       "ring": "reduce",
@@ -145,12 +145,12 @@
         "DevOps & Continuous Integration"
       ],
       "position": [
-        697,
-        645
+        571,
+        744
       ]
     },
     {
-      "id": "Monitoring_-_App_Insights",
+      "id": "App_Insights",
       "release": "2022-11-01",
       "title": "App Insights",
       "ring": "adopt",
@@ -163,8 +163,8 @@
         "Monitoring and Alerts"
       ],
       "position": [
-        567,
-        457
+        475,
+        513
       ]
     },
     {
@@ -182,8 +182,8 @@
         "AWS"
       ],
       "position": [
-        331,
-        477
+        293,
+        501
       ]
     },
     {
@@ -200,8 +200,8 @@
         "Cloud and Infrastructure"
       ],
       "position": [
-        232,
-        734
+        259,
+        754
       ]
     },
     {
@@ -218,8 +218,8 @@
         "Cloud and Infrastructure"
       ],
       "position": [
-        281,
-        673
+        97,
+        500
       ]
     },
     {
@@ -236,12 +236,12 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        500,
-        325
+        438,
+        369
       ]
     },
     {
-      "id": "AWS_-_Beanstalk",
+      "id": "Beanstalk",
       "release": "2022-11-01",
       "title": "Beanstalk",
       "ring": "reduce",
@@ -255,12 +255,12 @@
         "AWS"
       ],
       "position": [
-        273,
-        750
+        285,
+        765
       ]
     },
     {
-      "id": "JS_-_Browserify",
+      "id": "Browserify",
       "release": "2022-11-01",
       "title": "Browserify",
       "ring": "hold",
@@ -273,8 +273,8 @@
         "Frontend Tools"
       ],
       "position": [
-        700,
-        493
+        491,
+        708
       ]
     },
     {
@@ -291,12 +291,12 @@
         "Languages and frameworks"
       ],
       "position": [
-        58,
-        238
+        59,
+        229
       ]
     },
     {
-      "id": "JS_-_Chai_(testing)",
+      "id": "Chai_(testing)",
       "release": "2022-11-01",
       "title": "Chai",
       "ring": "adopt",
@@ -309,12 +309,12 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        350,
-        257
+        335,
+        234
       ]
     },
     {
-      "id": "CI_-_Circle_CI",
+      "id": "Circle_CI",
       "release": "2022-11-01",
       "title": "Circle CI",
       "ring": "adopt",
@@ -327,12 +327,12 @@
         "DevOps & Continuous Integration"
       ],
       "position": [
-        429,
-        458
+        485,
+        531
       ]
     },
     {
-      "id": "DB_-_Cloud_Managed_DBs",
+      "id": "Cloud_Managed_DBs",
       "release": "2022-11-01",
       "title": "Cloud Managed DBs",
       "ring": "adopt",
@@ -345,8 +345,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        267,
-        517
+        284,
+        457
       ]
     },
     {
@@ -363,8 +363,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        563,
-        233
+        472,
+        158
       ]
     },
     {
@@ -381,12 +381,12 @@
         "Authentication and Security"
       ],
       "position": [
-        556,
-        319
+        472,
+        323
       ]
     },
     {
-      "id": "JS_-_Cypress_(testing)",
+      "id": "Cypress_(testing)",
       "release": "2022-11-01",
       "title": "Cypress",
       "ring": "adopt",
@@ -399,8 +399,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        246,
-        353
+        357,
+        372
       ]
     },
     {
@@ -417,8 +417,8 @@
         "DevOps & Continuous Integration"
       ],
       "position": [
-        526,
-        335
+        538,
+        289
       ]
     },
     {
@@ -435,8 +435,8 @@
         "DevOps & Continuous Integration"
       ],
       "position": [
-        505,
-        524
+        478,
+        434
       ]
     },
     {
@@ -453,12 +453,12 @@
         "DevOps & Continuous Integration"
       ],
       "position": [
-        342,
-        519
+        243,
+        462
       ]
     },
     {
-      "id": "Dev_-_Docker-compose",
+      "id": "Docker-compose",
       "release": "2022-11-01",
       "title": "Docker-compose",
       "ring": "adopt",
@@ -471,8 +471,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        523,
-        512
+        460,
+        545
       ]
     },
     {
@@ -489,12 +489,12 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        429,
-        371
+        474,
+        361
       ]
     },
     {
-      "id": "AWS_-_EC2",
+      "id": "EC2",
       "release": "2022-11-01",
       "title": "EC2",
       "ring": "reduce",
@@ -508,12 +508,12 @@
         "AWS"
       ],
       "position": [
-        40,
-        507
+        220,
+        712
       ]
     },
     {
-      "id": "AWS_-_ECR_(private_repo)",
+      "id": "ECR_(private_repo)",
       "release": "2022-11-01",
       "title": "ECR (private repo)",
       "ring": "reduce",
@@ -527,12 +527,12 @@
         "AWS"
       ],
       "position": [
-        66,
-        577
+        37,
+        528
       ]
     },
     {
-      "id": "AWS_-_ECS",
+      "id": "ECS",
       "release": "2022-11-01",
       "title": "ECS",
       "ring": "reduce",
@@ -546,12 +546,12 @@
         "AWS"
       ],
       "position": [
-        26,
-        470
+        50,
+        547
       ]
     },
     {
-      "id": "AWS_-_ElastiCache_Redis",
+      "id": "ElastiCache_Redis",
       "release": "2022-11-01",
       "title": "ElastiCache Redis",
       "ring": "adopt",
@@ -565,12 +565,12 @@
         "AWS"
       ],
       "position": [
-        381,
-        486
+        304,
+        472
       ]
     },
     {
-      "id": "JS_-_ES_Lint",
+      "id": "ES_Lint",
       "release": "2022-11-01",
       "title": "ES Lint",
       "ring": "adopt",
@@ -584,8 +584,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        472,
-        565
+        454,
+        432
       ]
     },
     {
@@ -602,8 +602,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        251,
-        311
+        234,
+        319
       ]
     },
     {
@@ -620,12 +620,12 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        444,
-        330
+        489,
+        239
       ]
     },
     {
-      "id": "DB_-_Flyway",
+      "id": "Flyway",
       "release": "2022-11-01",
       "title": "Flyway",
       "ring": "adopt",
@@ -638,8 +638,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        474,
-        542
+        526,
+        525
       ]
     },
     {
@@ -656,8 +656,8 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        527,
-        368
+        419,
+        345
       ]
     },
     {
@@ -674,12 +674,12 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        185,
-        161
+        170,
+        173
       ]
     },
     {
-      "id": "Code_-_Github",
+      "id": "Github",
       "release": "2022-11-01",
       "title": "Github",
       "ring": "adopt",
@@ -692,8 +692,8 @@
         "Version Control and Code Management"
       ],
       "position": [
-        478,
-        453
+        462,
+        467
       ]
     },
     {
@@ -710,12 +710,12 @@
         "Languages and frameworks"
       ],
       "position": [
-        225,
-        69
+        111,
+        150
       ]
     },
     {
-      "id": "Dev_-_Gradle_(Groovy-based)",
+      "id": "Gradle_(Groovy-based)",
       "release": "2022-11-01",
       "title": "Gradle (Groovy-based)",
       "ring": "reduce",
@@ -728,12 +728,12 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        546,
-        756
+        627,
+        692
       ]
     },
     {
-      "id": "Dev_-_Gradle_(Kotlin-based)",
+      "id": "Gradle_(Kotlin-based)",
       "release": "2022-11-01",
       "title": "Gradle (Kotlin-based)",
       "ring": "adopt",
@@ -746,12 +746,12 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        504,
-        548
+        542,
+        480
       ]
     },
     {
-      "id": "Monitoring_-_Grafana",
+      "id": "Grafana",
       "release": "2022-11-01",
       "title": "Grafana",
       "ring": "adopt",
@@ -764,8 +764,8 @@
         "Monitoring and Alerts"
       ],
       "position": [
-        463,
-        525
+        442,
+        485
       ]
     },
     {
@@ -782,12 +782,12 @@
         "Languages and frameworks"
       ],
       "position": [
-        104,
-        333
+        270,
+        116
       ]
     },
     {
-      "id": "JS_-_Grunt",
+      "id": "Grunt",
       "release": "2022-11-01",
       "title": "Grunt",
       "ring": "hold",
@@ -800,12 +800,12 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        688,
-        516
+        642,
+        580
       ]
     },
     {
-      "id": "JS_-_Gulp",
+      "id": "Gulp",
       "release": "2022-11-01",
       "title": "Gulp",
       "ring": "reduce",
@@ -818,8 +818,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        644,
-        691
+        763,
+        467
       ]
     },
     {
@@ -836,12 +836,12 @@
         "API and Integration"
       ],
       "position": [
-        586,
-        232
+        610,
+        292
       ]
     },
     {
-      "id": "Dev_-_IntelliJ",
+      "id": "IntelliJ",
       "release": "2022-11-01",
       "title": "IntelliJ",
       "ring": "adopt",
@@ -854,8 +854,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        486,
-        479
+        493,
+        480
       ]
     },
     {
@@ -872,8 +872,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        260,
-        291
+        377,
+        382
       ]
     },
     {
@@ -890,8 +890,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        338,
-        335
+        312,
+        366
       ]
     },
     {
@@ -908,12 +908,12 @@
         "Languages and frameworks"
       ],
       "position": [
-        328,
-        387
+        289,
+        319
       ]
     },
     {
-      "id": "App_-_JBoss_(WildFly)",
+      "id": "JBoss_(WildFly)",
       "release": "2022-11-01",
       "title": "JBoss (WildFly)",
       "ring": "reduce",
@@ -926,12 +926,12 @@
         "Application Servers"
       ],
       "position": [
-        760,
-        534
+        597,
+        719
       ]
     },
     {
-      "id": "CI_-_Jenkins",
+      "id": "Jenkins",
       "release": "2022-11-01",
       "title": "Jenkins",
       "ring": "hold",
@@ -944,12 +944,12 @@
         "DevOps & Continuous Integration"
       ],
       "position": [
-        637,
-        608
+        681,
+        542
       ]
     },
     {
-      "id": "JS_-_Jest_(testing)",
+      "id": "Jest_(testing)",
       "release": "2022-11-01",
       "title": "Jest",
       "ring": "adopt",
@@ -962,8 +962,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        348,
-        314
+        268,
+        344
       ]
     },
     {
@@ -980,12 +980,12 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        487,
-        237
+        438,
+        302
       ]
     },
     {
-      "id": "Auth_-_Keycloak",
+      "id": "Keycloak",
       "release": "2022-11-01",
       "title": "Keycloak",
       "ring": "trial",
@@ -998,8 +998,8 @@
         "Authentication and Security"
       ],
       "position": [
-        627,
-        526
+        580,
+        588
       ]
     },
     {
@@ -1017,11 +1017,11 @@
       ],
       "position": [
         313,
-        312
+        305
       ]
     },
     {
-      "id": "AWS_-_Localstack_(Dev)",
+      "id": "Localstack_(Dev)",
       "release": "2022-11-01",
       "title": "Localstack (Dev)",
       "ring": "adopt",
@@ -1036,12 +1036,12 @@
         "AWS"
       ],
       "position": [
-        359,
-        476
+        275,
+        424
       ]
     },
     {
-      "id": "Dev_-_Make",
+      "id": "Make",
       "release": "2022-11-01",
       "title": "Make",
       "ring": "hold",
@@ -1054,12 +1054,12 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        620,
-        625
+        461,
+        718
       ]
     },
     {
-      "id": "JS_-_Mocha_(testing)",
+      "id": "Mocha_(testing)",
       "release": "2022-11-01",
       "title": "Mocha",
       "ring": "adopt",
@@ -1072,8 +1072,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        337,
-        278
+        237,
+        355
       ]
     },
     {
@@ -1090,12 +1090,12 @@
         "Cloud and Infrastructure"
       ],
       "position": [
-        280,
-        496
+        333,
+        473
       ]
     },
     {
-      "id": "DB_-_MongoDB",
+      "id": "MongoDB",
       "release": "2022-11-01",
       "title": "MongoDB",
       "ring": "reduce",
@@ -1108,12 +1108,12 @@
         "Databases and Data Management"
       ],
       "position": [
-        129,
-        670
+        177,
+        700
       ]
     },
     {
-      "id": "AWS_-_MSK_(Kafka)",
+      "id": "MSK_(Kafka)",
       "release": "2022-11-01",
       "title": "MSK (Kafka)",
       "ring": "trial",
@@ -1127,8 +1127,8 @@
         "AWS"
       ],
       "position": [
-        281,
-        616
+        152,
+        468
       ]
     },
     {
@@ -1145,8 +1145,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        174,
-        343
+        176,
+        345
       ]
     },
     {
@@ -1163,12 +1163,12 @@
         "Languages and frameworks"
       ],
       "position": [
-        369,
-        321
+        284,
+        362
       ]
     },
     {
-      "id": "JS_-_Nunjucks",
+      "id": "Nunjucks",
       "release": "2022-11-01",
       "title": "Nunjucks",
       "ring": "adopt",
@@ -1181,12 +1181,12 @@
         "Frontend Tools"
       ],
       "position": [
-        324,
-        259
+        373,
+        264
       ]
     },
     {
-      "id": "DB_-_Oracle_(all)",
+      "id": "Oracle_(all)",
       "release": "2022-11-01",
       "title": "Oracle",
       "ring": "reduce",
@@ -1199,8 +1199,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        210,
-        732
+        114,
+        621
       ]
     },
     {
@@ -1218,12 +1218,12 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        604,
-        540
+        527,
+        619
       ]
     },
     {
-      "id": "Monitoring_-_Pager_Duty",
+      "id": "Pager_Duty",
       "release": "2022-11-01",
       "title": "Pager Duty",
       "ring": "adopt",
@@ -1236,8 +1236,8 @@
         "Monitoring and Alerts"
       ],
       "position": [
-        451,
-        572
+        417,
+        479
       ]
     },
     {
@@ -1254,8 +1254,8 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        567,
-        355
+        564,
+        342
       ]
     },
     {
@@ -1272,12 +1272,12 @@
         "Languages and frameworks"
       ],
       "position": [
-        114,
-        158
+        94,
+        191
       ]
     },
     {
-      "id": "Monitoring_-_Pingdom",
+      "id": "Pingdom",
       "release": "2022-11-01",
       "title": "Pingdom",
       "ring": "adopt",
@@ -1290,8 +1290,8 @@
         "Monitoring and Alerts"
       ],
       "position": [
-        453,
-        466
+        550,
+        455
       ]
     },
     {
@@ -1308,12 +1308,12 @@
         "Databases and Data Management"
       ],
       "position": [
-        51,
-        275
+        259,
+        53
       ]
     },
     {
-      "id": "DB_-_Postgres_(non_DBaaS)",
+      "id": "Postgres_(non_DBaaS)",
       "release": "2022-11-01",
       "title": "Postgres (non DBaaS)",
       "ring": "reduce",
@@ -1326,12 +1326,12 @@
         "Databases and Data Management"
       ],
       "position": [
-        156,
-        695
+        332,
+        773
       ]
     },
     {
-      "id": "DB_-_Postgres_RDS",
+      "id": "Postgres_RDS",
       "release": "2022-11-01",
       "title": "Postgres RDS",
       "ring": "adopt",
@@ -1344,12 +1344,12 @@
         "Databases and Data Management"
       ],
       "position": [
-        364,
-        537
+        357,
+        575
       ]
     },
     {
-      "id": "Dev_-_Postman",
+      "id": "Postman",
       "release": "2022-11-01",
       "title": "Postman",
       "ring": "adopt",
@@ -1363,8 +1363,8 @@
         "API and Integration"
       ],
       "position": [
-        482,
-        511
+        419,
+        458
       ]
     },
     {
@@ -1381,8 +1381,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        307,
-        285
+        256,
+        297
       ]
     },
     {
@@ -1399,12 +1399,12 @@
         "Version Control and Code Management"
       ],
       "position": [
-        458,
-        271
+        491,
+        306
       ]
     },
     {
-      "id": "Code_-_Prettier",
+      "id": "Prettier",
       "release": "2022-11-01",
       "title": "Prettier",
       "ring": "adopt",
@@ -1417,12 +1417,12 @@
         "Frontend Tools"
       ],
       "position": [
-        445,
-        437
+        517,
+        477
       ]
     },
     {
-      "id": "Monitoring_-_Prometheus_(inc_Alert_Mgr)",
+      "id": "Prometheus_(inc_Alert_Mgr)",
       "release": "2022-11-01",
       "title": "Prometheus (inc Alert Mgr)",
       "ring": "adopt",
@@ -1435,8 +1435,8 @@
         "Monitoring and Alerts"
       ],
       "position": [
-        545,
-        461
+        431,
+        515
       ]
     },
     {
@@ -1453,8 +1453,8 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        468,
-        248
+        438,
+        237
       ]
     },
     {
@@ -1471,8 +1471,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        74,
-        209
+        233,
+        63
       ]
     },
     {
@@ -1489,8 +1489,8 @@
         "DevOps & Continuous Integration"
       ],
       "position": [
-        331,
-        553
+        342,
+        417
       ]
     },
     {
@@ -1507,8 +1507,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        231,
-        145
+        228,
+        139
       ]
     },
     {
@@ -1525,8 +1525,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        27,
-        331
+        41,
+        286
       ]
     },
     {
@@ -1543,8 +1543,8 @@
         "API and Integration"
       ],
       "position": [
-        458,
-        303
+        528,
+        359
       ]
     },
     {
@@ -1561,8 +1561,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        100,
-        185
+        187,
+        81
       ]
     },
     {
@@ -1579,8 +1579,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        173,
-        113
+        285,
+        43
       ]
     },
     {
@@ -1597,12 +1597,12 @@
         "Languages and frameworks"
       ],
       "position": [
-        264,
-        205
+        330,
+        186
       ]
     },
     {
-      "id": "Code_-_SASS",
+      "id": "SASS",
       "release": "2022-11-01",
       "title": "SASS",
       "ring": "adopt",
@@ -1615,12 +1615,12 @@
         "Frontend Tools"
       ],
       "position": [
-        560,
-        431
+        427,
+        551
       ]
     },
     {
-      "id": "Dev_-_SBT_(Scala_build_tool)",
+      "id": "SBT_(Scala_build_tool)",
       "release": "2022-11-01",
       "title": "SBT (Scala build tool)",
       "ring": "reduce",
@@ -1633,8 +1633,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        769,
-        467
+        540,
+        755
       ]
     },
     {
@@ -1651,8 +1651,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        151,
-        115
+        95,
+        165
       ]
     },
     {
@@ -1669,8 +1669,8 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        433,
-        243
+        511,
+        327
       ]
     },
     {
@@ -1687,12 +1687,12 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        222,
-        364
+        369,
+        227
       ]
     },
     {
-      "id": "Monitoring_-_Sentry",
+      "id": "Sentry",
       "release": "2022-11-01",
       "title": "Sentry",
       "ring": "adopt",
@@ -1705,12 +1705,12 @@
         "Monitoring and Alerts"
       ],
       "position": [
-        409,
-        435
+        457,
+        522
       ]
     },
     {
-      "id": "AWS_-_Serverless",
+      "id": "Serverless",
       "release": "2022-11-01",
       "title": "Serverless",
       "ring": "trial",
@@ -1724,12 +1724,12 @@
         "AWS"
       ],
       "position": [
-        205,
-        555
+        321,
+        633
       ]
     },
     {
-      "id": "JS_-_Sinon_(testing)",
+      "id": "Sinon_(testing)",
       "release": "2022-11-01",
       "title": "Sinon",
       "ring": "adopt",
@@ -1742,12 +1742,12 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        358,
-        229
+        365,
+        328
       ]
     },
     {
-      "id": "AWS_-_SNS",
+      "id": "SNS",
       "release": "2022-11-01",
       "title": "SNS",
       "ring": "adopt",
@@ -1761,8 +1761,8 @@
         "AWS"
       ],
       "position": [
-        386,
-        435
+        339,
+        528
       ]
     },
     {
@@ -1779,12 +1779,12 @@
         "Authentication and Security"
       ],
       "position": [
-        619,
-        486
+        534,
+        597
       ]
     },
     {
-      "id": "Code_-_Sonarqube",
+      "id": "Sonarqube",
       "release": "2022-11-01",
       "title": "Sonarqube",
       "ring": "reduce",
@@ -1797,8 +1797,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        660,
-        664
+        678,
+        641
       ]
     },
     {
@@ -1815,12 +1815,12 @@
         "Languages and Frameworks"
       ],
       "position": [
-        363,
-        274
+        274,
+        273
       ]
     },
     {
-      "id": "DB_-_SQL_Clone",
+      "id": "SQL_Clone",
       "release": "2022-11-01",
       "title": "SQL Clone",
       "ring": "trial",
@@ -1833,12 +1833,12 @@
         "Databases and Data Management"
       ],
       "position": [
-        487,
-        616
+        630,
+        462
       ]
     },
     {
-      "id": "DB_-_SQL_Server_(non_DBaaS)",
+      "id": "SQL_Server_(non_DBaaS)",
       "release": "2022-11-01",
       "title": "SQL Server (non DBaaS)",
       "ring": "reduce",
@@ -1851,12 +1851,12 @@
         "Databases and Data Management"
       ],
       "position": [
-        110,
-        629
+        26,
+        468
       ]
     },
     {
-      "id": "AWS_-_SQS",
+      "id": "SQS",
       "release": "2022-11-01",
       "title": "SQS",
       "ring": "adopt",
@@ -1870,12 +1870,12 @@
         "AWS"
       ],
       "position": [
-        284,
-        534
+        339,
+        452
       ]
     },
     {
-      "id": "JS_-_Standard_JS",
+      "id": "Standard_JS",
       "release": "2022-11-01",
       "title": "Standard JS",
       "ring": "adopt",
@@ -1888,8 +1888,8 @@
         "Frontend Tools"
       ],
       "position": [
-        536,
-        491
+        414,
+        438
       ]
     },
     {
@@ -1906,12 +1906,12 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        507,
-        269
+        470,
+        252
       ]
     },
     {
-      "id": "IaC_-_Terraform",
+      "id": "Terraform",
       "release": "2022-11-01",
       "title": "Terraform",
       "ring": "adopt",
@@ -1924,12 +1924,12 @@
         "DevOps & Continuous Integration"
       ],
       "position": [
-        492,
-        438
+        546,
+        430
       ]
     },
     {
-      "id": "IaC_-_Terragrunt",
+      "id": "Terragrunt",
       "release": "2022-11-01",
       "title": "Terragrunt",
       "ring": "hold",
@@ -1942,12 +1942,12 @@
         "DevOps & Continuous Integration"
       ],
       "position": [
-        567,
-        675
+        515,
+        691
       ]
     },
     {
-      "id": "App_-_Tomcat",
+      "id": "Tomcat",
       "release": "2022-11-01",
       "title": "Tomcat",
       "ring": "reduce",
@@ -1960,8 +1960,8 @@
         "Application Servers"
       ],
       "position": [
-        737,
-        541
+        676,
+        665
       ]
     },
     {
@@ -1979,12 +1979,12 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        485,
-        294
+        511,
+        299
       ]
     },
     {
-      "id": "JS_-_Typescript",
+      "id": "Typescript",
       "release": "2022-11-01",
       "title": "Typescript",
       "ring": "adopt",
@@ -1997,12 +1997,12 @@
         "Languages and frameworks"
       ],
       "position": [
-        256,
-        371
+        316,
+        335
       ]
     },
     {
-      "id": "Dev_-_VSCode",
+      "id": "VSCode",
       "release": "2022-11-01",
       "title": "VSCode",
       "ring": "adopt",
@@ -2015,8 +2015,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        456,
-        413
+        508,
+        441
       ]
     },
     {
@@ -2033,12 +2033,12 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        736,
-        237
+        621,
+        95
       ]
     },
     {
-      "id": "App_-_Weblogic",
+      "id": "Weblogic",
       "release": "2022-11-01",
       "title": "Weblogic",
       "ring": "reduce",
@@ -2051,12 +2051,12 @@
         "Application Servers"
       ],
       "position": [
-        731,
-        569
+        733,
+        584
       ]
     },
     {
-      "id": "JS_-_Webpack",
+      "id": "Webpack",
       "release": "2022-11-01",
       "title": "Webpack",
       "ring": "adopt",
@@ -2069,12 +2069,12 @@
         "Frontend Tools"
       ],
       "position": [
-        477,
-        420
+        458,
+        570
       ]
     },
     {
-      "id": "JS_-_Yarn",
+      "id": "Yarn",
       "release": "2022-11-01",
       "title": "Yarn",
       "ring": "reduce",
@@ -2087,8 +2087,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        593,
-        721
+        733,
+        554
       ]
     }
   ]
