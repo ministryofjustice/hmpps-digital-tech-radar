@@ -3,11 +3,23 @@
     "2022-11-01"
   ],
   "tags": [
-    "Infrastructure as code",
-    "Monitoring",
-    "Security",
-    "hmpps",
-    "languages"
+    "API and Integration",
+    "AWS",
+    "Application Servers",
+    "Authentication and Security",
+    "Build Tools and Package Management",
+    "Cloud and Infrastructure",
+    "Databases and Data Management",
+    "DevOps & Continuous Integration",
+    "Development Practices and Methodologies",
+    "Frontend Tools",
+    "Languages and Frameworks",
+    "Languages and frameworks",
+    "Monitoring and Alerts",
+    "Testing and Quality Assurance",
+    "Version Control and Code Management",
+    "hmpp",
+    "hmpps"
   ],
   "items": [
     {
@@ -20,11 +32,30 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Languages and frameworks"
       ],
       "position": [
-        113,
-        259
+        128,
+        256
+      ]
+    },
+    {
+      "id": "DB_-_ADO",
+      "release": "2022-11-01",
+      "title": "ADO",
+      "ring": "trial",
+      "quadrant": "tools",
+      "body": "<p>ActiveX Data Objects is a Microsoft technology that enables developers to access and manipulate data from various sources, such as databases and files, in a uniform manner. ADO provides a set of COM (Component Object Model) interfaces for data access, allowing for operations like querying, updating, and managing data connections.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Databases and Data Management"
+      ],
+      "position": [
+        507,
+        601
       ]
     },
     {
@@ -37,11 +68,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Development Practices and Methodologies"
       ],
       "position": [
-        479,
-        314
+        469,
+        351
       ]
     },
     {
@@ -54,11 +86,31 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Development Practices and Methodologies"
       ],
       "position": [
-        428,
-        283
+        470,
+        377
+      ]
+    },
+    {
+      "id": "AWS_-_S3",
+      "release": "2022-11-01",
+      "title": "Amazon S3",
+      "ring": "adopt",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>Amazon S3 (Simple Storage Service) is a scalable object storage service provided by Amazon Web Services (AWS) that allows users to store and retrieve any amount of data from anywhere on the web. It is commonly used for backup, data archiving, content distribution, and hosting static websites. S3 offers high durability, availability, and security for data storage.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Cloud and Infrastructure",
+        "AWS"
+      ],
+      "position": [
+        356,
+        411
       ]
     },
     {
@@ -71,62 +123,30 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Languages and frameworks"
       ],
       "position": [
-        196,
-        161
+        162,
+        191
       ]
     },
     {
-      "id": "App_-_JBoss_(WildFly)",
+      "id": "IaC_-_Ansible_(VMs_only)",
       "release": "2022-11-01",
-      "title": "App - JBoss (WildFly)",
+      "title": "Ansible (VMs only)",
       "ring": "reduce",
       "quadrant": "tools",
-      "body": "<p>JBoss WildFly is an open-source Java application server that implements the Java EE (Enterprise Edition) specifications. It provides a runtime environment for developing and deploying enterprise-level applications, offering features like scalability, security, and support for modern Java frameworks and APIs. WildFly is known for its modularity, lightweight footprint, and fast startup times.</p>\n",
+      "body": "<p>An open-source software provisioning, configuration management, and application-deployment tool. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration.</p>\n",
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "DevOps & Continuous Integration"
       ],
       "position": [
-        508,
-        763
-      ]
-    },
-    {
-      "id": "App_-_Tomcat",
-      "release": "2022-11-01",
-      "title": "App - Tomcat",
-      "ring": "reduce",
-      "quadrant": "tools",
-      "body": "<p>Apache Tomcat is an open-source web server and servlet container that runs Java-based web applications. It implements the Java Servlet, JavaServer Pages (JSP), and WebSocket technologies, allowing developers to serve dynamic content and run Java code on a server.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        746,
-        559
-      ]
-    },
-    {
-      "id": "App_-_Weblogic",
-      "release": "2022-11-01",
-      "title": "App - Weblogic",
-      "ring": "reduce",
-      "quadrant": "tools",
-      "body": "<p>Oracle WebLogic Server is a Java EE application server currently developed by Oracle Corporation.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        736,
-        581
+        697,
+        645
       ]
     },
     {
@@ -140,215 +160,11 @@
       "flag": "default",
       "tags": [
         "hmpps",
-        "Monitoring"
+        "Monitoring and Alerts"
       ],
       "position": [
-        492,
-        445
-      ]
-    },
-    {
-      "id": "Auth_-_Keycloak",
-      "release": "2022-11-01",
-      "title": "Auth - Keycloak",
-      "ring": "trial",
-      "quadrant": "tools",
-      "body": "<p>An open source software product to allow single sign-on with Identity Management and Access Management aimed at modern applications and services.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        472,
-        643
-      ]
-    },
-    {
-      "id": "AWS_-_Beanstalk",
-      "release": "2022-11-01",
-      "title": "AWS - Beanstalk",
-      "ring": "reduce",
-      "quadrant": "platforms-and-operations",
-      "body": "<p>AWS Elastic Beanstalk is a cloud service for deploying and managing applications. It handles infrastructure tasks like scaling, load balancing, and monitoring, allowing developers to focus on writing code. You simply upload your application, and Beanstalk automatically provisions and configures the necessary resources.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        154,
-        662
-      ]
-    },
-    {
-      "id": "AWS_-_EC2",
-      "release": "2022-11-01",
-      "title": "AWS - EC2",
-      "ring": "reduce",
-      "quadrant": "platforms-and-operations",
-      "body": "<p>AWS EC2 (Amazon Elastic Compute Cloud) is a web service that provides scalable virtual servers, known as instances, in the cloud. It allows users to run applications, manage storage, and configure compute capacity on-demand with flexibility and control over resources.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        260,
-        735
-      ]
-    },
-    {
-      "id": "AWS_-_ECR_(private_repo)",
-      "release": "2022-11-01",
-      "title": "AWS - ECR (private repo)",
-      "ring": "reduce",
-      "quadrant": "platforms-and-operations",
-      "body": "<p>AWS ECR (Elastic Container Registry) is a fully managed container registry service that allows developers to store, manage, and deploy Docker container images. It integrates with Amazon ECS, EKS, and other services, enabling seamless workflows for deploying containerized applications.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        63,
-        555
-      ]
-    },
-    {
-      "id": "AWS_-_ECS",
-      "release": "2022-11-01",
-      "title": "AWS - ECS",
-      "ring": "reduce",
-      "quadrant": "platforms-and-operations",
-      "body": "<p>Amazon Elastic Container Service (ECS) is a fully managed container orchestration service that enables users to run, manage, and scale Docker containers on AWS. It simplifies the deployment of applications by handling the underlying infrastructure, allowing developers to focus on building and running their applications without worrying about the complexities of managing servers.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        159,
-        696
-      ]
-    },
-    {
-      "id": "AWS_-_ElastiCache_Redis",
-      "release": "2022-11-01",
-      "title": "AWS - ElastiCache Redis",
-      "ring": "adopt",
-      "quadrant": "platforms-and-operations",
-      "body": "<p>Amazon ElastiCache for Redis is a fully managed, in-memory caching service provided by AWS that allows users to deploy, operate, and scale Redis, an open-source, in-memory data structure store. ElastiCache for Redis is designed to improve the performance of applications by providing quick data retrieval and caching capabilities, enabling faster response times and reduced latency for frequently accessed data.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        305,
-        519
-      ]
-    },
-    {
-      "id": "AWS_-_Localstack_(Dev)",
-      "release": "2022-11-01",
-      "title": "AWS - Localstack (Dev)",
-      "ring": "adopt",
-      "quadrant": "platforms-and-operations",
-      "body": "<p>AWS LocalStack is an open-source tool that simulates AWS cloud services on a local machine, allowing developers to test and develop cloud applications offline. It provides a local environment for a wide range of AWS services, enabling faster development cycles without incurring costs or requiring internet connectivity.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        355,
-        498
-      ]
-    },
-    {
-      "id": "AWS_-_MSK_(Kafka)",
-      "release": "2022-11-01",
-      "title": "AWS - MSK (Kafka)",
-      "ring": "trial",
-      "quadrant": "platforms-and-operations",
-      "body": "<p>MSK Kafka (Amazon Managed Streaming for Apache Kafka) is a fully managed service by Amazon Web Services (AWS) that simplifies the setup, scaling, and management of Apache Kafka, an open-source platform for building real-time streaming data pipelines and applications. MSK enables users to easily stream data between different applications and services, providing a scalable and reliable way to process and analyze large volumes of data in real time.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        175,
-        470
-      ]
-    },
-    {
-      "id": "AWS_-_S3",
-      "release": "2022-11-01",
-      "title": "AWS - S3",
-      "ring": "adopt",
-      "quadrant": "platforms-and-operations",
-      "body": "<p>Amazon S3 (Simple Storage Service) is a scalable object storage service provided by Amazon Web Services (AWS) that allows users to store and retrieve any amount of data from anywhere on the web. It is commonly used for backup, data archiving, content distribution, and hosting static websites. S3 offers high durability, availability, and security for data storage.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        272,
-        503
-      ]
-    },
-    {
-      "id": "AWS_-_Serverless",
-      "release": "2022-11-01",
-      "title": "AWS - Serverless",
-      "ring": "trial",
-      "quadrant": "platforms-and-operations",
-      "body": "<p>AWS Serverless refers to a cloud computing model offered by Amazon Web Services that allows developers to build and run applications without managing server infrastructure. In this model, resources are automatically allocated and scaled based on demand, enabling developers to focus on writing code while AWS handles the underlying server management, provisioning, and scaling. Key services in the AWS Serverless ecosystem include AWS Lambda, Amazon API Gateway, and AWS Step Functions.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        294,
-        629
-      ]
-    },
-    {
-      "id": "AWS_-_SNS",
-      "release": "2022-11-01",
-      "title": "AWS - SNS",
-      "ring": "adopt",
-      "quadrant": "platforms-and-operations",
-      "body": "<p>Amazon Simple Notification Service (SNS) is a highly available, durable, secure, fully managed pub/sub messaging service that enables you to decouple microservices, distributed systems, and serverless applications.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        305,
-        429
-      ]
-    },
-    {
-      "id": "AWS_-_SQS",
-      "release": "2022-11-01",
-      "title": "AWS - SQS",
-      "ring": "adopt",
-      "quadrant": "platforms-and-operations",
-      "body": "<p>Amazon Simple Queue Service (SQS) is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        300,
-        456
+        567,
+        457
       ]
     },
     {
@@ -361,11 +177,13 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Cloud and Infrastructure",
+        "AWS"
       ],
       "position": [
-        365,
-        547
+        331,
+        477
       ]
     },
     {
@@ -378,11 +196,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Cloud and Infrastructure"
       ],
       "position": [
-        313,
-        770
+        232,
+        734
       ]
     },
     {
@@ -395,11 +214,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Cloud and Infrastructure"
       ],
       "position": [
-        92,
-        463
+        281,
+        673
       ]
     },
     {
@@ -412,11 +232,49 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Testing and Quality Assurance"
       ],
       "position": [
-        501,
-        300
+        500,
+        325
+      ]
+    },
+    {
+      "id": "AWS_-_Beanstalk",
+      "release": "2022-11-01",
+      "title": "Beanstalk",
+      "ring": "reduce",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>AWS Elastic Beanstalk is a cloud service for deploying and managing applications. It handles infrastructure tasks like scaling, load balancing, and monitoring, allowing developers to focus on writing code. You simply upload your application, and Beanstalk automatically provisions and configures the necessary resources.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Cloud and Infrastructure",
+        "AWS"
+      ],
+      "position": [
+        273,
+        750
+      ]
+    },
+    {
+      "id": "JS_-_Browserify",
+      "release": "2022-11-01",
+      "title": "Browserify",
+      "ring": "hold",
+      "quadrant": "tools",
+      "body": "<p>Browserify is a tool that enables developers to write Node.js-style modules in their JavaScript code and bundle them for use in the browser. It allows the use of the CommonJS module system, which helps manage dependencies and organize code, ultimately making it easier to create modular web applications.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Frontend Tools"
+      ],
+      "position": [
+        700,
+        493
       ]
     },
     {
@@ -429,113 +287,66 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Languages and frameworks"
       ],
       "position": [
-        176,
-        90
+        58,
+        238
+      ]
+    },
+    {
+      "id": "JS_-_Chai_(testing)",
+      "release": "2022-11-01",
+      "title": "Chai",
+      "ring": "adopt",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>Chai is a popular assertion library for JavaScript used in testing applications. It provides a variety of assertion styles (like BDD, TDD, and assert) that allow developers to write clear and expressive tests. Chai can be used with various testing frameworks, such as Mocha, to enhance the testing experience by enabling easy validation of expected outcomes in code.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Testing and Quality Assurance"
+      ],
+      "position": [
+        350,
+        257
       ]
     },
     {
       "id": "CI_-_Circle_CI",
       "release": "2022-11-01",
-      "title": "CI - Circle CI",
+      "title": "Circle CI",
       "ring": "adopt",
       "quadrant": "tools",
       "body": "<p>Cloud hosted CI tool providing a continuous integration and continuous delivery platform to build, test, and deploy software.</p>\n",
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "DevOps & Continuous Integration"
       ],
       "position": [
-        467,
-        486
+        429,
+        458
       ]
     },
     {
-      "id": "CI_-_Jenkins",
+      "id": "DB_-_Cloud_Managed_DBs",
       "release": "2022-11-01",
-      "title": "CI - Jenkins",
-      "ring": "hold",
-      "quadrant": "tools",
-      "body": "<p>An open source automation server which enables developers around the world to reliably build, test, and deploy their software.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        591,
-        640
-      ]
-    },
-    {
-      "id": "Code_-_Github",
-      "release": "2022-11-01",
-      "title": "Code - Github",
+      "title": "Cloud Managed DBs",
       "ring": "adopt",
-      "quadrant": "tools",
-      "body": "<p>GitHub is a web-based platform that uses Git for version control and collaboration, allowing developers to store, manage, and share code repositories. It provides tools for issue tracking, project management, and team collaboration, making it easier for individuals and teams to work on software projects together.</p>\n",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>Managed databases are typically provided by the cloud provider as-a-Service and takes over many of the difficult or tedious management tasks of a managing a database.  It is typically scalable, manages backups, software patching, automatic failure detection, and recovery.</p>\n",
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Databases and Data Management"
       ],
       "position": [
-        558,
-        442
-      ]
-    },
-    {
-      "id": "Code_-_Prettier",
-      "release": "2022-11-01",
-      "title": "Code - Prettier",
-      "ring": "adopt",
-      "quadrant": "tools",
-      "body": "<p>An opinionated code formatter; Supports many languages; Integrates with most editors.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        479,
-        567
-      ]
-    },
-    {
-      "id": "Code_-_SASS",
-      "release": "2022-11-01",
-      "title": "Code - SASS",
-      "ring": "adopt",
-      "quadrant": "tools",
-      "body": "<p>CSS with superpowers. Sass (Syntactically Awesome Style Sheets) is a preprocessor scripting language that extends CSS with features like variables, nested rules, mixins, and functions, making it easier to write and maintain stylesheets. It compiles into standard CSS, enhancing the styling capabilities of web projects.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        527,
-        509
-      ]
-    },
-    {
-      "id": "Code_-_Sonarqube",
-      "release": "2022-11-01",
-      "title": "Code - Sonarqube",
-      "ring": "reduce",
-      "quadrant": "tools",
-      "body": "<p>An open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        603,
-        725
+        267,
+        517
       ]
     },
     {
@@ -548,11 +359,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Testing and Quality Assurance"
       ],
       "position": [
-        646,
-        320
+        563,
+        233
       ]
     },
     {
@@ -565,300 +377,30 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Authentication and Security"
       ],
       "position": [
-        497,
-        333
+        556,
+        319
       ]
     },
     {
-      "id": "DB_-_ADO",
+      "id": "JS_-_Cypress_(testing)",
       "release": "2022-11-01",
-      "title": "DB - ADO",
-      "ring": "trial",
-      "quadrant": "tools",
-      "body": "<p>ActiveX Data Objects is a Microsoft technology that enables developers to access and manipulate data from various sources, such as databases and files, in a uniform manner. ADO provides a set of COM (Component Object Model) interfaces for data access, allowing for operations like querying, updating, and managing data connections.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        482,
-        624
-      ]
-    },
-    {
-      "id": "DB_-_Cloud_Managed_DBs",
-      "release": "2022-11-01",
-      "title": "DB - Cloud Managed DBs",
+      "title": "Cypress",
       "ring": "adopt",
-      "quadrant": "platforms-and-operations",
-      "body": "<p>Managed databases are typically provided by the cloud provider as-a-Service and takes over many of the difficult or tedious management tasks of a managing a database.  It is typically scalable, manages backups, software patching, automatic failure detection, and recovery.</p>\n",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>Cypress is a JavaScript-based end-to-end testing framework designed for web applications. It allows developers to write tests that simulate user interactions in a browser, making it easy to test the functionality, performance, and reliability of web applications in real-time. Cypress provides a rich API and a user-friendly interface for creating, running, and debugging tests.</p>\n",
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Testing and Quality Assurance"
       ],
       "position": [
-        238,
-        439
-      ]
-    },
-    {
-      "id": "DB_-_Flyway",
-      "release": "2022-11-01",
-      "title": "DB - Flyway",
-      "ring": "adopt",
-      "quadrant": "tools",
-      "body": "<p>Flyway is an open-source database migration tool that helps manage version control for databases. It enables developers to apply, track, and version database schema changes through a series of migration scripts, ensuring that the database is consistently updated across different environments.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        428,
-        470
-      ]
-    },
-    {
-      "id": "DB_-_MongoDB",
-      "release": "2022-11-01",
-      "title": "DB - MongoDB",
-      "ring": "reduce",
-      "quadrant": "platforms-and-operations",
-      "body": "<p>MongoDB is a NoSQL database that uses a document-oriented data model to store and manage data in flexible, JSON-like documents. It is designed for scalability and performance, allowing for dynamic schema changes and efficient handling of large volumes of unstructured data.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        115,
-        654
-      ]
-    },
-    {
-      "id": "DB_-_Oracle_(all)",
-      "release": "2022-11-01",
-      "title": "DB - Oracle (all)",
-      "ring": "reduce",
-      "quadrant": "platforms-and-operations",
-      "body": "<p>An Oracle Database is a multi-model database management system produced by Oracle Corporation. It is designed to store and manage large amounts of data, providing features such as SQL support, data integrity, scalability, and security. Oracle Databases are widely used in enterprise environments for transaction processing, data warehousing, and application development.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        101,
-        634
-      ]
-    },
-    {
-      "id": "DB_-_Postgres_(non_DBaaS)",
-      "release": "2022-11-01",
-      "title": "DB - Postgres (non DBaaS)",
-      "ring": "reduce",
-      "quadrant": "platforms-and-operations",
-      "body": "<p>PostgreSQL, often referred to as Postgres, is an open-source relational database management system (RDBMS) that uses and extends the SQL language. It is known for its advanced features, such as support for complex queries, transactions, and extensibility, making it suitable for a wide range of applications from small-scale projects to large enterprise systems.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        43,
-        516
-      ]
-    },
-    {
-      "id": "DB_-_Postgres_RDS",
-      "release": "2022-11-01",
-      "title": "DB - Postgres RDS",
-      "ring": "adopt",
-      "quadrant": "platforms-and-operations",
-      "body": "<p>PostgreSQL RDS (Relational Database Service) is a managed database service provided by Amazon Web Services (AWS) that allows users to set up, operate, and scale PostgreSQL databases in the cloud. It automates tasks such as backups, patching, and scaling, making it easier for developers to manage databases without the need for extensive administrative overhead.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        245,
-        488
-      ]
-    },
-    {
-      "id": "DB_-_SQL_Clone",
-      "release": "2022-11-01",
-      "title": "DB - SQL Clone",
-      "ring": "trial",
-      "quadrant": "tools",
-      "body": "<p>A database provisioning tool that lets you create full copies of SQL Server databases and backups in seconds</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        515,
-        633
-      ]
-    },
-    {
-      "id": "DB_-_SQL_Server_(non_DBaaS)",
-      "release": "2022-11-01",
-      "title": "DB - SQL Server (non DBaaS)",
-      "ring": "reduce",
-      "quadrant": "platforms-and-operations",
-      "body": "<p>SQL Server is a relational database management system (RDBMS) developed by Microsoft that uses Structured Query Language (SQL) to manage and manipulate data. It provides a platform for building, deploying, and managing data-driven applications and supports various features like transaction processing, business intelligence, and analytics. Unlike Database as a Service (DBaaS), SQL Server can be installed and managed on local servers or on-premises environments.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        74,
-        581
-      ]
-    },
-    {
-      "id": "Dev_-_Docker-compose",
-      "release": "2022-11-01",
-      "title": "Dev - Docker-compose",
-      "ring": "adopt",
-      "quadrant": "tools",
-      "body": "<p>(Dev only - not for Production use).  A tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application&#39;s services.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        457,
-        532
-      ]
-    },
-    {
-      "id": "Dev_-_Gradle_(Groovy-based)",
-      "release": "2022-11-01",
-      "title": "Dev - Gradle (Groovy-based)",
-      "ring": "reduce",
-      "quadrant": "tools",
-      "body": "<p>An open-source build automation system that builds upon the concepts of Apache Ant and Apache Maven and introduces a Groovy or Kotlin-based domain-specific language instead of the XML form used by Apache Maven for declaring the project configuration.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        624,
-        706
-      ]
-    },
-    {
-      "id": "Dev_-_Gradle_(Kotlin-based)",
-      "release": "2022-11-01",
-      "title": "Dev - Gradle (Kotlin-based)",
-      "ring": "adopt",
-      "quadrant": "tools",
-      "body": "<p>An open-source build automation system that builds upon the concepts of Apache Ant and Apache Maven and introduces a Groovy or Kotlin-based domain-specific language instead of the XML form used by Apache Maven for declaring the project configuration.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        441,
-        517
-      ]
-    },
-    {
-      "id": "Dev_-_IntelliJ",
-      "release": "2022-11-01",
-      "title": "Dev - IntelliJ",
-      "ring": "adopt",
-      "quadrant": "tools",
-      "body": "<p>A cross-platform IDE/source code editor primarily aimed at JVM-based technologies such as Java, Groovy, Kotlin, and Scala but it also supports Java EE and web development. An open-source version is available under the name IntelliJ IDEA Community Edition, and a proprietary version as IntelliJ IDEA Ultimate Edition. IntelliJ IDEA Ultimate Edition can be made to include the feature set of PhpStorm, PyCharm and RubyMine via plugins.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        494,
-        479
-      ]
-    },
-    {
-      "id": "Dev_-_Make",
-      "release": "2022-11-01",
-      "title": "Dev - Make",
-      "ring": "hold",
-      "quadrant": "tools",
-      "body": "<p>A tool which controls the generation of executables and other non-source files of a program from the program&#39;s source files.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        695,
-        492
-      ]
-    },
-    {
-      "id": "Dev_-_Postman",
-      "release": "2022-11-01",
-      "title": "Dev - Postman",
-      "ring": "adopt",
-      "quadrant": "tools",
-      "body": "<p>Postman is a collaboration platform for API development that provides tools for building, testing, and documenting APIs. It allows developers to send requests to APIs, receive responses, and organize tests, making it easier to manage the API lifecycle and streamline the development process.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        490,
-        530
-      ]
-    },
-    {
-      "id": "Dev_-_SBT_(Scala_build_tool)",
-      "release": "2022-11-01",
-      "title": "Dev - SBT (Scala build tool)",
-      "ring": "reduce",
-      "quadrant": "tools",
-      "body": "<p>An open-source build tool for Scala and Java projects, similar to Java&#39;s Maven and Ant.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        703,
-        634
-      ]
-    },
-    {
-      "id": "Dev_-_VSCode",
-      "release": "2022-11-01",
-      "title": "Dev - VSCode",
-      "ring": "adopt",
-      "quadrant": "tools",
-      "body": "<p>A source-code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control and GitHub, syntax highlighting, intelligent code completion, snippets, and code refactoring.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        445,
-        550
+        246,
+        353
       ]
     },
     {
@@ -871,11 +413,30 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "DevOps & Continuous Integration"
       ],
       "position": [
-        450,
-        362
+        526,
+        335
+      ]
+    },
+    {
+      "id": "Platform_-_Docker",
+      "release": "2022-11-01",
+      "title": "Docker",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "body": "<p>A lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "DevOps & Continuous Integration"
+      ],
+      "position": [
+        505,
+        524
       ]
     },
     {
@@ -888,11 +449,30 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "DevOps & Continuous Integration"
       ],
       "position": [
-        366,
-        445
+        342,
+        519
+      ]
+    },
+    {
+      "id": "Dev_-_Docker-compose",
+      "release": "2022-11-01",
+      "title": "Docker-compose",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "body": "<p>(Dev only - not for Production use).  A tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application&#39;s services.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Build Tools and Package Management"
+      ],
+      "position": [
+        523,
+        512
       ]
     },
     {
@@ -905,11 +485,125 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Development Practices and Methodologies"
       ],
       "position": [
-        467,
-        293
+        429,
+        371
+      ]
+    },
+    {
+      "id": "AWS_-_EC2",
+      "release": "2022-11-01",
+      "title": "EC2",
+      "ring": "reduce",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>AWS EC2 (Amazon Elastic Compute Cloud) is a web service that provides scalable virtual servers, known as instances, in the cloud. It allows users to run applications, manage storage, and configure compute capacity on-demand with flexibility and control over resources.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpp",
+        "Cloud and Infrastructure",
+        "AWS"
+      ],
+      "position": [
+        40,
+        507
+      ]
+    },
+    {
+      "id": "AWS_-_ECR_(private_repo)",
+      "release": "2022-11-01",
+      "title": "ECR (private repo)",
+      "ring": "reduce",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>AWS ECR (Elastic Container Registry) is a fully managed container registry service that allows developers to store, manage, and deploy Docker container images. It integrates with Amazon ECS, EKS, and other services, enabling seamless workflows for deploying containerized applications.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Cloud and Infrastructure",
+        "AWS"
+      ],
+      "position": [
+        66,
+        577
+      ]
+    },
+    {
+      "id": "AWS_-_ECS",
+      "release": "2022-11-01",
+      "title": "ECS",
+      "ring": "reduce",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>Amazon Elastic Container Service (ECS) is a fully managed container orchestration service that enables users to run, manage, and scale Docker containers on AWS. It simplifies the deployment of applications by handling the underlying infrastructure, allowing developers to focus on building and running their applications without worrying about the complexities of managing servers.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Cloud and Infrastructure",
+        "AWS"
+      ],
+      "position": [
+        26,
+        470
+      ]
+    },
+    {
+      "id": "AWS_-_ElastiCache_Redis",
+      "release": "2022-11-01",
+      "title": "ElastiCache Redis",
+      "ring": "adopt",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>Amazon ElastiCache for Redis is a fully managed, in-memory caching service provided by AWS that allows users to deploy, operate, and scale Redis, an open-source, in-memory data structure store. ElastiCache for Redis is designed to improve the performance of applications by providing quick data retrieval and caching capabilities, enabling faster response times and reduced latency for frequently accessed data.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Cloud and Infrastructure",
+        "AWS"
+      ],
+      "position": [
+        381,
+        486
+      ]
+    },
+    {
+      "id": "JS_-_ES_Lint",
+      "release": "2022-11-01",
+      "title": "ES Lint",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "body": "<p>A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Frontend Tools",
+        "Testing and Quality Assurance"
+      ],
+      "position": [
+        472,
+        565
+      ]
+    },
+    {
+      "id": "Node.js_-_Express",
+      "release": "2022-11-01",
+      "title": "Express",
+      "ring": "adopt",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications and APIs.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Languages and frameworks"
+      ],
+      "position": [
+        251,
+        311
       ]
     },
     {
@@ -922,11 +616,30 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Testing and Quality Assurance"
       ],
       "position": [
-        471,
-        362
+        444,
+        330
+      ]
+    },
+    {
+      "id": "DB_-_Flyway",
+      "release": "2022-11-01",
+      "title": "Flyway",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "body": "<p>Flyway is an open-source database migration tool that helps manage version control for databases. It enables developers to apply, track, and version database schema changes through a series of migration scripts, ensuring that the database is consistently updated across different environments.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Databases and Data Management"
+      ],
+      "position": [
+        474,
+        542
       ]
     },
     {
@@ -939,11 +652,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Development Practices and Methodologies"
       ],
       "position": [
-        453,
-        266
+        527,
+        368
       ]
     },
     {
@@ -956,11 +670,30 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Testing and Quality Assurance"
       ],
       "position": [
-        136,
-        245
+        185,
+        161
+      ]
+    },
+    {
+      "id": "Code_-_Github",
+      "release": "2022-11-01",
+      "title": "Github",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "body": "<p>GitHub is a web-based platform that uses Git for version control and collaboration, allowing developers to store, manage, and share code repositories. It provides tools for issue tracking, project management, and team collaboration, making it easier for individuals and teams to work on software projects together.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Version Control and Code Management"
+      ],
+      "position": [
+        478,
+        453
       ]
     },
     {
@@ -974,11 +707,47 @@
       "flag": "default",
       "tags": [
         "hmpps",
-        "languages"
+        "Languages and frameworks"
       ],
       "position": [
-        147,
-        118
+        225,
+        69
+      ]
+    },
+    {
+      "id": "Dev_-_Gradle_(Groovy-based)",
+      "release": "2022-11-01",
+      "title": "Gradle (Groovy-based)",
+      "ring": "reduce",
+      "quadrant": "tools",
+      "body": "<p>An open-source build automation system that builds upon the concepts of Apache Ant and Apache Maven and introduces a Groovy or Kotlin-based domain-specific language instead of the XML form used by Apache Maven for declaring the project configuration.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Build Tools and Package Management"
+      ],
+      "position": [
+        546,
+        756
+      ]
+    },
+    {
+      "id": "Dev_-_Gradle_(Kotlin-based)",
+      "release": "2022-11-01",
+      "title": "Gradle (Kotlin-based)",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "body": "<p>An open-source build automation system that builds upon the concepts of Apache Ant and Apache Maven and introduces a Groovy or Kotlin-based domain-specific language instead of the XML form used by Apache Maven for declaring the project configuration.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Build Tools and Package Management"
+      ],
+      "position": [
+        504,
+        548
       ]
     },
     {
@@ -992,11 +761,11 @@
       "flag": "default",
       "tags": [
         "hmpps",
-        "Monitoring"
+        "Monitoring and Alerts"
       ],
       "position": [
-        523,
-        536
+        463,
+        525
       ]
     },
     {
@@ -1009,11 +778,48 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Languages and frameworks"
       ],
       "position": [
-        156,
-        216
+        104,
+        333
+      ]
+    },
+    {
+      "id": "JS_-_Grunt",
+      "release": "2022-11-01",
+      "title": "Grunt",
+      "ring": "hold",
+      "quadrant": "tools",
+      "body": "<p>A JavaScript task runner, a tool used to automatically perform frequent tasks such as minification, compilation, unit testing, and linting.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Build Tools and Package Management"
+      ],
+      "position": [
+        688,
+        516
+      ]
+    },
+    {
+      "id": "JS_-_Gulp",
+      "release": "2022-11-01",
+      "title": "Gulp",
+      "ring": "reduce",
+      "quadrant": "tools",
+      "body": "<p>A toolkit for automating painful or time-consuming tasks in your javascript development workflow, so you can stop messing around and build something.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Build Tools and Package Management"
+      ],
+      "position": [
+        644,
+        691
       ]
     },
     {
@@ -1026,47 +832,30 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "API and Integration"
       ],
       "position": [
-        545,
-        186
+        586,
+        232
       ]
     },
     {
-      "id": "IaC_-_Ansible_(VMs_only)",
+      "id": "Dev_-_IntelliJ",
       "release": "2022-11-01",
-      "title": "IaC - Ansible (VMs only)",
-      "ring": "reduce",
+      "title": "IntelliJ",
+      "ring": "adopt",
       "quadrant": "tools",
-      "body": "<p>An open-source software provisioning, configuration management, and application-deployment tool. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration.</p>\n",
+      "body": "<p>A cross-platform IDE/source code editor primarily aimed at JVM-based technologies such as Java, Groovy, Kotlin, and Scala but it also supports Java EE and web development. An open-source version is available under the name IntelliJ IDEA Community Edition, and a proprietary version as IntelliJ IDEA Ultimate Edition. IntelliJ IDEA Ultimate Edition can be made to include the feature set of PhpStorm, PyCharm and RubyMine via plugins.</p>\n",
       "featured": true,
       "flag": "default",
       "tags": [
         "hmpps",
-        "Infrastructure as code"
+        "Build Tools and Package Management"
       ],
       "position": [
-        548,
-        744
-      ]
-    },
-    {
-      "id": "IaC_-_Terragrunt",
-      "release": "2022-11-01",
-      "title": "IaC - Terragrunt",
-      "ring": "hold",
-      "quadrant": "tools",
-      "body": "<p>A thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules. - gruntwork-io/terragrunt.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps",
-        "Infrastructure as code"
-      ],
-      "position": [
-        677,
-        526
+        486,
+        479
       ]
     },
     {
@@ -1080,28 +869,29 @@
       "flag": "default",
       "tags": [
         "hmpps",
-        "languages"
+        "Languages and frameworks"
       ],
       "position": [
-        384,
-        355
+        260,
+        291
       ]
     },
     {
       "id": "Java_-_JPA",
       "release": "2022-11-01",
-      "title": "Java - JPA",
+      "title": "Java Persistence API (JPA)",
       "ring": "adopt",
       "quadrant": "languages-and-frameworks",
       "body": "<p>Java Persistence API (JPA) is a specification in Java for accessing, managing, and persisting data between Java objects and a relational database. It provides a framework for Object-Relational Mapping (ORM), enabling developers to map Java objects to database tables, simplifying data handling and manipulation in Java applications.</p>\n",
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Languages and frameworks"
       ],
       "position": [
-        350,
-        368
+        338,
+        335
       ]
     },
     {
@@ -1115,249 +905,65 @@
       "flag": "default",
       "tags": [
         "hmpps",
-        "languages"
+        "Languages and frameworks"
       ],
       "position": [
-        323,
-        351
+        328,
+        387
       ]
     },
     {
-      "id": "JS_-_Browserify",
+      "id": "App_-_JBoss_(WildFly)",
       "release": "2022-11-01",
-      "title": "JS - Browserify",
-      "ring": "hold",
-      "quadrant": "tools",
-      "body": "<p>Browserify is a tool that enables developers to write Node.js-style modules in their JavaScript code and bundle them for use in the browser. It allows the use of the CommonJS module system, which helps manage dependencies and organize code, ultimately making it easier to create modular web applications.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        631,
-        590
-      ]
-    },
-    {
-      "id": "JS_-_Chai_(testing)",
-      "release": "2022-11-01",
-      "title": "JS - Chai (testing)",
-      "ring": "adopt",
-      "quadrant": "languages-and-frameworks",
-      "body": "<p>Chai is a popular assertion library for JavaScript used in testing applications. It provides a variety of assertion styles (like BDD, TDD, and assert) that allow developers to write clear and expressive tests. Chai can be used with various testing frameworks, such as Mocha, to enhance the testing experience by enabling easy validation of expected outcomes in code.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        310,
-        247
-      ]
-    },
-    {
-      "id": "JS_-_Cypress_(testing)",
-      "release": "2022-11-01",
-      "title": "JS - Cypress (testing)",
-      "ring": "adopt",
-      "quadrant": "languages-and-frameworks",
-      "body": "<p>Cypress is a JavaScript-based end-to-end testing framework designed for web applications. It allows developers to write tests that simulate user interactions in a browser, making it easy to test the functionality, performance, and reliability of web applications in real-time. Cypress provides a rich API and a user-friendly interface for creating, running, and debugging tests.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        294,
-        259
-      ]
-    },
-    {
-      "id": "JS_-_ES_Lint",
-      "release": "2022-11-01",
-      "title": "JS - ES Lint",
-      "ring": "adopt",
-      "quadrant": "tools",
-      "body": "<p>A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        512,
-        432
-      ]
-    },
-    {
-      "id": "JS_-_Grunt",
-      "release": "2022-11-01",
-      "title": "JS - Grunt",
-      "ring": "hold",
-      "quadrant": "tools",
-      "body": "<p>A JavaScript task runner, a tool used to automatically perform frequent tasks such as minification, compilation, unit testing, and linting.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        618,
-        633
-      ]
-    },
-    {
-      "id": "JS_-_Gulp",
-      "release": "2022-11-01",
-      "title": "JS - Gulp",
+      "title": "JBoss (WildFly)",
       "ring": "reduce",
       "quadrant": "tools",
-      "body": "<p>A toolkit for automating painful or time-consuming tasks in your javascript development workflow, so you can stop messing around and build something.</p>\n",
+      "body": "<p>JBoss WildFly is an open-source Java application server that implements the Java EE (Enterprise Edition) specifications. It provides a runtime environment for developing and deploying enterprise-level applications, offering features like scalability, security, and support for modern Java frameworks and APIs. WildFly is known for its modularity, lightweight footprint, and fast startup times.</p>\n",
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Application Servers"
       ],
       "position": [
-        664,
-        652
+        760,
+        534
+      ]
+    },
+    {
+      "id": "CI_-_Jenkins",
+      "release": "2022-11-01",
+      "title": "Jenkins",
+      "ring": "hold",
+      "quadrant": "tools",
+      "body": "<p>An open source automation server which enables developers around the world to reliably build, test, and deploy their software.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "DevOps & Continuous Integration"
+      ],
+      "position": [
+        637,
+        608
       ]
     },
     {
       "id": "JS_-_Jest_(testing)",
       "release": "2022-11-01",
-      "title": "JS - Jest (testing)",
+      "title": "Jest",
       "ring": "adopt",
       "quadrant": "languages-and-frameworks",
       "body": "<p>Jest is a JavaScript testing framework developed by Facebook, designed to simplify the process of writing unit tests for JavaScript applications. It provides a robust set of features, including a zero-config setup, built-in assertions, test runners, and tools for mocking and spying on functions, making it easy to test both synchronous and asynchronous code.</p>\n",
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Testing and Quality Assurance"
       ],
       "position": [
-        252,
-        293
-      ]
-    },
-    {
-      "id": "JS_-_Mocha_(testing)",
-      "release": "2022-11-01",
-      "title": "JS - Mocha (testing)",
-      "ring": "adopt",
-      "quadrant": "languages-and-frameworks",
-      "body": "<p>Mocha is a popular JavaScript test framework that runs on Node.js and in the browser, allowing developers to write and execute asynchronous tests. It provides a flexible structure for organizing tests and supports various assertion libraries, making it easy to create unit and integration tests for JavaScript applications.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        325,
-        383
-      ]
-    },
-    {
-      "id": "JS_-_Nunjucks",
-      "release": "2022-11-01",
-      "title": "JS - Nunjucks",
-      "ring": "adopt",
-      "quadrant": "languages-and-frameworks",
-      "body": "<p>Nunjucks is a JavaScript templating engine used for rendering HTML and other text formats. It allows developers to create dynamic web pages by embedding variables, loops, and conditional statements in templates, similar to languages like Django or Jinja2 in Python. Nunjucks is often used in Node.js applications and can be integrated with various web frameworks.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        244,
-        363
-      ]
-    },
-    {
-      "id": "JS_-_Sinon_(testing)",
-      "release": "2022-11-01",
-      "title": "JS - Sinon (testing)",
-      "ring": "adopt",
-      "quadrant": "languages-and-frameworks",
-      "body": "<p>Standalone test spies, stubs and mocks for JavaScript.  Works with any unit testing framework.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        280,
+        348,
         314
-      ]
-    },
-    {
-      "id": "JS_-_Standard_JS",
-      "release": "2022-11-01",
-      "title": "JS - Standard JS",
-      "ring": "adopt",
-      "quadrant": "tools",
-      "body": "<p>Standard JS (JavaScript Standard Style) is a set of style guidelines and conventions for writing JavaScript code. It promotes consistency and readability in code through rules regarding indentation, naming conventions, spacing, and other formatting aspects. Standard JS emphasizes the use of modern JavaScript features and discourages certain practices to enhance code quality and maintainability.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        437,
-        490
-      ]
-    },
-    {
-      "id": "JS_-_Typescript",
-      "release": "2022-11-01",
-      "title": "JS - Typescript",
-      "ring": "adopt",
-      "quadrant": "languages-and-frameworks",
-      "body": "<p>TypeScript is a superset of JavaScript that adds static typing to the language. It enables developers to catch errors at compile time rather than runtime, improving code quality and maintainability. TypeScript compiles to plain JavaScript, making it compatible with existing JavaScript code and frameworks.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        359,
-        254
-      ]
-    },
-    {
-      "id": "JS_-_Webpack",
-      "release": "2022-11-01",
-      "title": "JS - Webpack",
-      "ring": "adopt",
-      "quadrant": "tools",
-      "body": "<p>A module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        419,
-        414
-      ]
-    },
-    {
-      "id": "JS_-_Yarn",
-      "release": "2022-11-01",
-      "title": "JS - Yarn",
-      "ring": "reduce",
-      "quadrant": "tools",
-      "body": "<p>Yarn is a package manager for JavaScript that allows developers to manage project dependencies efficiently. It provides a fast, reliable, and secure way to install, update, and configure packages in JavaScript projects, using a lockfile to ensure consistent installations across different environments. Yarn was developed by Facebook to address issues with the npm package manager, such as performance and security.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        771,
-        468
       ]
     },
     {
@@ -1370,11 +976,30 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Development Practices and Methodologies"
       ],
       "position": [
-        578,
-        367
+        487,
+        237
+      ]
+    },
+    {
+      "id": "Auth_-_Keycloak",
+      "release": "2022-11-01",
+      "title": "Keycloak",
+      "ring": "trial",
+      "quadrant": "tools",
+      "body": "<p>An open source software product to allow single sign-on with Identity Management and Access Management aimed at modern applications and services.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Authentication and Security"
+      ],
+      "position": [
+        627,
+        526
       ]
     },
     {
@@ -1388,15 +1013,71 @@
       "flag": "default",
       "tags": [
         "hmpps",
-        "languages"
+        "Languages and frameworks"
       ],
       "position": [
-        338,
-        270
+        313,
+        312
       ]
     },
     {
-      "id": "_MoJ__Cloud_Platform",
+      "id": "AWS_-_Localstack_(Dev)",
+      "release": "2022-11-01",
+      "title": "Localstack (Dev)",
+      "ring": "adopt",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>AWS LocalStack is an open-source tool that simulates AWS cloud services on a local machine, allowing developers to test and develop cloud applications offline. It provides a local environment for a wide range of AWS services, enabling faster development cycles without incurring costs or requiring internet connectivity.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Cloud and Infrastructure",
+        "DevOps & Continuous Integration",
+        "AWS"
+      ],
+      "position": [
+        359,
+        476
+      ]
+    },
+    {
+      "id": "Dev_-_Make",
+      "release": "2022-11-01",
+      "title": "Make",
+      "ring": "hold",
+      "quadrant": "tools",
+      "body": "<p>A tool which controls the generation of executables and other non-source files of a program from the program&#39;s source files.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Build Tools and Package Management"
+      ],
+      "position": [
+        620,
+        625
+      ]
+    },
+    {
+      "id": "JS_-_Mocha_(testing)",
+      "release": "2022-11-01",
+      "title": "Mocha",
+      "ring": "adopt",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>Mocha is a popular JavaScript test framework that runs on Node.js and in the browser, allowing developers to write and execute asynchronous tests. It provides a flexible structure for organizing tests and supports various assertion libraries, making it easy to create unit and integration tests for JavaScript applications.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Testing and Quality Assurance"
+      ],
+      "position": [
+        337,
+        278
+      ]
+    },
+    {
+      "id": "MoJ__Cloud_Platform",
       "release": "2022-11-01",
       "title": "MoJ Cloud Platform",
       "ring": "adopt",
@@ -1405,11 +1086,49 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Cloud and Infrastructure"
       ],
       "position": [
-        356,
-        470
+        280,
+        496
+      ]
+    },
+    {
+      "id": "DB_-_MongoDB",
+      "release": "2022-11-01",
+      "title": "MongoDB",
+      "ring": "reduce",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>MongoDB is a NoSQL database that uses a document-oriented data model to store and manage data in flexible, JSON-like documents. It is designed for scalability and performance, allowing for dynamic schema changes and efficient handling of large volumes of unstructured data.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Databases and Data Management"
+      ],
+      "position": [
+        129,
+        670
+      ]
+    },
+    {
+      "id": "AWS_-_MSK_(Kafka)",
+      "release": "2022-11-01",
+      "title": "MSK (Kafka)",
+      "ring": "trial",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>MSK Kafka (Amazon Managed Streaming for Apache Kafka) is a fully managed service by Amazon Web Services (AWS) that simplifies the setup, scaling, and management of Apache Kafka, an open-source platform for building real-time streaming data pipelines and applications. MSK enables users to easily stream data between different applications and services, providing a scalable and reliable way to process and analyze large volumes of data in real time.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Cloud and Infrastructure",
+        "AWS"
+      ],
+      "position": [
+        281,
+        616
       ]
     },
     {
@@ -1422,11 +1141,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Languages and frameworks"
       ],
       "position": [
-        276,
-        187
+        174,
+        343
       ]
     },
     {
@@ -1439,28 +1159,48 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Languages and frameworks"
       ],
       "position": [
-        301,
-        322
+        369,
+        321
       ]
     },
     {
-      "id": "Node.js_-_Express",
+      "id": "JS_-_Nunjucks",
       "release": "2022-11-01",
-      "title": "Node.js - Express",
+      "title": "Nunjucks",
       "ring": "adopt",
       "quadrant": "languages-and-frameworks",
-      "body": "<p>A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications and APIs.</p>\n",
+      "body": "<p>Nunjucks is a JavaScript templating engine used for rendering HTML and other text formats. It allows developers to create dynamic web pages by embedding variables, loops, and conditional statements in templates, similar to languages like Django or Jinja2 in Python. Nunjucks is often used in Node.js applications and can be integrated with various web frameworks.</p>\n",
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Frontend Tools"
       ],
       "position": [
-        311,
-        284
+        324,
+        259
+      ]
+    },
+    {
+      "id": "DB_-_Oracle_(all)",
+      "release": "2022-11-01",
+      "title": "Oracle",
+      "ring": "reduce",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>An Oracle Database is a multi-model database management system produced by Oracle Corporation. It is designed to store and manage large amounts of data, providing features such as SQL support, data integrity, scalability, and security. Oracle Databases are widely used in enterprise environments for transaction processing, data warehousing, and application development.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Databases and Data Management"
+      ],
+      "position": [
+        210,
+        732
       ]
     },
     {
@@ -1474,11 +1214,12 @@
       "flag": "default",
       "tags": [
         "hmpps",
-        "Security"
+        "Authentication and Security",
+        "Testing and Quality Assurance"
       ],
       "position": [
-        496,
-        640
+        604,
+        540
       ]
     },
     {
@@ -1492,11 +1233,11 @@
       "flag": "default",
       "tags": [
         "hmpps",
-        "Monitoring"
+        "Monitoring and Alerts"
       ],
       "position": [
-        475,
-        508
+        451,
+        572
       ]
     },
     {
@@ -1509,11 +1250,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Development Practices and Methodologies"
       ],
       "position": [
-        479,
-        266
+        567,
+        355
       ]
     },
     {
@@ -1526,11 +1268,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Languages and frameworks"
       ],
       "position": [
-        331,
-        32
+        114,
+        158
       ]
     },
     {
@@ -1544,28 +1287,11 @@
       "flag": "default",
       "tags": [
         "hmpps",
-        "Monitoring"
+        "Monitoring and Alerts"
       ],
       "position": [
-        482,
-        463
-      ]
-    },
-    {
-      "id": "Platform_-_Docker",
-      "release": "2022-11-01",
-      "title": "Platform - Docker",
-      "ring": "adopt",
-      "quadrant": "tools",
-      "body": "<p>A lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.</p>\n",
-      "featured": true,
-      "flag": "default",
-      "tags": [
-        "hmpps"
-      ],
-      "position": [
-        455,
-        459
+        453,
+        466
       ]
     },
     {
@@ -1578,11 +1304,67 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Databases and Data Management"
       ],
       "position": [
-        289,
-        40
+        51,
+        275
+      ]
+    },
+    {
+      "id": "DB_-_Postgres_(non_DBaaS)",
+      "release": "2022-11-01",
+      "title": "Postgres (non DBaaS)",
+      "ring": "reduce",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>PostgreSQL, often referred to as Postgres, is an open-source relational database management system (RDBMS) that uses and extends the SQL language. It is known for its advanced features, such as support for complex queries, transactions, and extensibility, making it suitable for a wide range of applications from small-scale projects to large enterprise systems.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Databases and Data Management"
+      ],
+      "position": [
+        156,
+        695
+      ]
+    },
+    {
+      "id": "DB_-_Postgres_RDS",
+      "release": "2022-11-01",
+      "title": "Postgres RDS",
+      "ring": "adopt",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>PostgreSQL RDS (Relational Database Service) is a managed database service provided by Amazon Web Services (AWS) that allows users to set up, operate, and scale PostgreSQL databases in the cloud. It automates tasks such as backups, patching, and scaling, making it easier for developers to manage databases without the need for extensive administrative overhead.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Databases and Data Management"
+      ],
+      "position": [
+        364,
+        537
+      ]
+    },
+    {
+      "id": "Dev_-_Postman",
+      "release": "2022-11-01",
+      "title": "Postman",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "body": "<p>Postman is a collaboration platform for API development that provides tools for building, testing, and documenting APIs. It allows developers to send requests to APIs, receive responses, and organize tests, making it easier to manage the API lifecycle and streamline the development process.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Build Tools and Package Management",
+        "API and Integration"
+      ],
+      "position": [
+        482,
+        511
       ]
     },
     {
@@ -1595,11 +1377,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Build Tools and Package Management"
       ],
       "position": [
-        345,
-        234
+        307,
+        285
       ]
     },
     {
@@ -1612,11 +1395,30 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Version Control and Code Management"
       ],
       "position": [
-        459,
-        316
+        458,
+        271
+      ]
+    },
+    {
+      "id": "Code_-_Prettier",
+      "release": "2022-11-01",
+      "title": "Prettier",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "body": "<p>An opinionated code formatter; Supports many languages; Integrates with most editors.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Frontend Tools"
+      ],
+      "position": [
+        445,
+        437
       ]
     },
     {
@@ -1630,11 +1432,11 @@
       "flag": "default",
       "tags": [
         "hmpps",
-        "Monitoring"
+        "Monitoring and Alerts"
       ],
       "position": [
-        439,
-        430
+        545,
+        461
       ]
     },
     {
@@ -1647,11 +1449,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Development Practices and Methodologies"
       ],
       "position": [
-        427,
-        365
+        468,
+        248
       ]
     },
     {
@@ -1664,11 +1467,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Languages and frameworks"
       ],
       "position": [
-        93,
-        188
+        74,
+        209
       ]
     },
     {
@@ -1681,11 +1485,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "DevOps & Continuous Integration"
       ],
       "position": [
-        327,
-        421
+        331,
+        553
       ]
     },
     {
@@ -1698,11 +1503,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Languages and frameworks"
       ],
       "position": [
-        94,
-        345
+        231,
+        145
       ]
     },
     {
@@ -1715,11 +1521,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Languages and frameworks"
       ],
       "position": [
-        198,
-        76
+        27,
+        331
       ]
     },
     {
@@ -1732,11 +1539,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "API and Integration"
       ],
       "position": [
-        541,
-        353
+        458,
+        303
       ]
     },
     {
@@ -1749,11 +1557,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Languages and frameworks"
       ],
       "position": [
-        53,
-        248
+        100,
+        185
       ]
     },
     {
@@ -1766,11 +1575,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Languages and frameworks"
       ],
       "position": [
-        112,
-        151
+        173,
+        113
       ]
     },
     {
@@ -1783,11 +1593,48 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Languages and frameworks"
       ],
       "position": [
-        184,
-        306
+        264,
+        205
+      ]
+    },
+    {
+      "id": "Code_-_SASS",
+      "release": "2022-11-01",
+      "title": "SASS",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "body": "<p>CSS with superpowers. Sass (Syntactically Awesome Style Sheets) is a preprocessor scripting language that extends CSS with features like variables, nested rules, mixins, and functions, making it easier to write and maintain stylesheets. It compiles into standard CSS, enhancing the styling capabilities of web projects.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Frontend Tools"
+      ],
+      "position": [
+        560,
+        431
+      ]
+    },
+    {
+      "id": "Dev_-_SBT_(Scala_build_tool)",
+      "release": "2022-11-01",
+      "title": "SBT (Scala build tool)",
+      "ring": "reduce",
+      "quadrant": "tools",
+      "body": "<p>An open-source build tool for Scala and Java projects, similar to Java&#39;s Maven and Ant.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Build Tools and Package Management"
+      ],
+      "position": [
+        769,
+        467
       ]
     },
     {
@@ -1800,11 +1647,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Languages and frameworks"
       ],
       "position": [
-        96,
-        166
+        151,
+        115
       ]
     },
     {
@@ -1817,11 +1665,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Development Practices and Methodologies"
       ],
       "position": [
-        558,
-        371
+        433,
+        243
       ]
     },
     {
@@ -1834,11 +1683,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Testing and Quality Assurance"
       ],
       "position": [
-        327,
-        308
+        222,
+        364
       ]
     },
     {
@@ -1852,11 +1702,67 @@
       "flag": "default",
       "tags": [
         "hmpps",
-        "Monitoring"
+        "Monitoring and Alerts"
       ],
       "position": [
-        542,
-        492
+        409,
+        435
+      ]
+    },
+    {
+      "id": "AWS_-_Serverless",
+      "release": "2022-11-01",
+      "title": "Serverless",
+      "ring": "trial",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>AWS Serverless refers to a cloud computing model offered by Amazon Web Services that allows developers to build and run applications without managing server infrastructure. In this model, resources are automatically allocated and scaled based on demand, enabling developers to focus on writing code while AWS handles the underlying server management, provisioning, and scaling. Key services in the AWS Serverless ecosystem include AWS Lambda, Amazon API Gateway, and AWS Step Functions.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Cloud and Infrastructure",
+        "AWS"
+      ],
+      "position": [
+        205,
+        555
+      ]
+    },
+    {
+      "id": "JS_-_Sinon_(testing)",
+      "release": "2022-11-01",
+      "title": "Sinon",
+      "ring": "adopt",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>Standalone test spies, stubs and mocks for JavaScript.  Works with any unit testing framework.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Testing and Quality Assurance"
+      ],
+      "position": [
+        358,
+        229
+      ]
+    },
+    {
+      "id": "AWS_-_SNS",
+      "release": "2022-11-01",
+      "title": "SNS",
+      "ring": "adopt",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>Amazon Simple Notification Service (SNS) is a highly available, durable, secure, fully managed pub/sub messaging service that enables you to decouple microservices, distributed systems, and serverless applications.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Cloud and Infrastructure",
+        "AWS"
+      ],
+      "position": [
+        386,
+        435
       ]
     },
     {
@@ -1870,11 +1776,29 @@
       "flag": "default",
       "tags": [
         "hmpps",
-        "Security"
+        "Authentication and Security"
       ],
       "position": [
-        506,
-        614
+        619,
+        486
+      ]
+    },
+    {
+      "id": "Code_-_Sonarqube",
+      "release": "2022-11-01",
+      "title": "Sonarqube",
+      "ring": "reduce",
+      "quadrant": "tools",
+      "body": "<p>An open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Testing and Quality Assurance"
+      ],
+      "position": [
+        660,
+        664
       ]
     },
     {
@@ -1887,11 +1811,85 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Languages and Frameworks"
       ],
       "position": [
-        292,
-        358
+        363,
+        274
+      ]
+    },
+    {
+      "id": "DB_-_SQL_Clone",
+      "release": "2022-11-01",
+      "title": "SQL Clone",
+      "ring": "trial",
+      "quadrant": "tools",
+      "body": "<p>A database provisioning tool that lets you create full copies of SQL Server databases and backups in seconds</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Databases and Data Management"
+      ],
+      "position": [
+        487,
+        616
+      ]
+    },
+    {
+      "id": "DB_-_SQL_Server_(non_DBaaS)",
+      "release": "2022-11-01",
+      "title": "SQL Server (non DBaaS)",
+      "ring": "reduce",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>SQL Server is a relational database management system (RDBMS) developed by Microsoft that uses Structured Query Language (SQL) to manage and manipulate data. It provides a platform for building, deploying, and managing data-driven applications and supports various features like transaction processing, business intelligence, and analytics. Unlike Database as a Service (DBaaS), SQL Server can be installed and managed on local servers or on-premises environments.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Databases and Data Management"
+      ],
+      "position": [
+        110,
+        629
+      ]
+    },
+    {
+      "id": "AWS_-_SQS",
+      "release": "2022-11-01",
+      "title": "SQS",
+      "ring": "adopt",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>Amazon Simple Queue Service (SQS) is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Cloud and Infrastructure",
+        "AWS"
+      ],
+      "position": [
+        284,
+        534
+      ]
+    },
+    {
+      "id": "JS_-_Standard_JS",
+      "release": "2022-11-01",
+      "title": "Standard JS",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "body": "<p>Standard JS (JavaScript Standard Style) is a set of style guidelines and conventions for writing JavaScript code. It promotes consistency and readability in code through rules regarding indentation, naming conventions, spacing, and other formatting aspects. Standard JS emphasizes the use of modern JavaScript features and discourages certain practices to enhance code quality and maintainability.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Frontend Tools"
+      ],
+      "position": [
+        536,
+        491
       ]
     },
     {
@@ -1904,11 +1902,12 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Testing and Quality Assurance"
       ],
       "position": [
-        446,
-        299
+        507,
+        269
       ]
     },
     {
@@ -1922,11 +1921,47 @@
       "flag": "default",
       "tags": [
         "hmpps",
-        "Infrastructure as code"
+        "DevOps & Continuous Integration"
       ],
       "position": [
-        450,
-        574
+        492,
+        438
+      ]
+    },
+    {
+      "id": "IaC_-_Terragrunt",
+      "release": "2022-11-01",
+      "title": "Terragrunt",
+      "ring": "hold",
+      "quadrant": "tools",
+      "body": "<p>A thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules. - gruntwork-io/terragrunt.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "DevOps & Continuous Integration"
+      ],
+      "position": [
+        567,
+        675
+      ]
+    },
+    {
+      "id": "App_-_Tomcat",
+      "release": "2022-11-01",
+      "title": "Tomcat",
+      "ring": "reduce",
+      "quadrant": "tools",
+      "body": "<p>Apache Tomcat is an open-source web server and servlet container that runs Java-based web applications. It implements the Java Servlet, JavaServer Pages (JSP), and WebSocket technologies, allowing developers to serve dynamic content and run Java code on a server.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Application Servers"
+      ],
+      "position": [
+        737,
+        541
       ]
     },
     {
@@ -1939,11 +1974,49 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Version Control and Code Management",
+        "Development Practices and Methodologies"
       ],
       "position": [
-        555,
-        334
+        485,
+        294
+      ]
+    },
+    {
+      "id": "JS_-_Typescript",
+      "release": "2022-11-01",
+      "title": "Typescript",
+      "ring": "adopt",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>TypeScript is a superset of JavaScript that adds static typing to the language. It enables developers to catch errors at compile time rather than runtime, improving code quality and maintainability. TypeScript compiles to plain JavaScript, making it compatible with existing JavaScript code and frameworks.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Languages and frameworks"
+      ],
+      "position": [
+        256,
+        371
+      ]
+    },
+    {
+      "id": "Dev_-_VSCode",
+      "release": "2022-11-01",
+      "title": "VSCode",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "body": "<p>A source-code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control and GitHub, syntax highlighting, intelligent code completion, snippets, and code refactoring.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Build Tools and Package Management"
+      ],
+      "position": [
+        456,
+        413
       ]
     },
     {
@@ -1956,11 +2029,66 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpps"
+        "hmpps",
+        "Development Practices and Methodologies"
       ],
       "position": [
-        744,
-        248
+        736,
+        237
+      ]
+    },
+    {
+      "id": "App_-_Weblogic",
+      "release": "2022-11-01",
+      "title": "Weblogic",
+      "ring": "reduce",
+      "quadrant": "tools",
+      "body": "<p>Oracle WebLogic Server is a Java EE application server currently developed by Oracle Corporation.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Application Servers"
+      ],
+      "position": [
+        731,
+        569
+      ]
+    },
+    {
+      "id": "JS_-_Webpack",
+      "release": "2022-11-01",
+      "title": "Webpack",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "body": "<p>A module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Frontend Tools"
+      ],
+      "position": [
+        477,
+        420
+      ]
+    },
+    {
+      "id": "JS_-_Yarn",
+      "release": "2022-11-01",
+      "title": "Yarn",
+      "ring": "reduce",
+      "quadrant": "tools",
+      "body": "<p>Yarn is a package manager for JavaScript that allows developers to manage project dependencies efficiently. It provides a fast, reliable, and secure way to install, update, and configure packages in JavaScript projects, using a lockfile to ensure consistent installations across different environments. Yarn was developed by Facebook to address issues with the npm package manager, such as performance and security.</p>\n",
+      "featured": true,
+      "flag": "default",
+      "tags": [
+        "hmpps",
+        "Build Tools and Package Management"
+      ],
+      "position": [
+        593,
+        721
       ]
     }
   ]

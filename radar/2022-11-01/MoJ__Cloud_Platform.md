@@ -2,7 +2,7 @@
 title: "MoJ Cloud Platform"
 quadrant: "platforms-and-operations"
 ring: "adopt"
-tags: [hmpps]
+tags: [hmpps, Cloud and Infrastructure]
 ---
 The Ministry of Justice’s Cloud Platform is a modern, cloud-native hosting platform for digital services built within the Ministry of Justice.
 
