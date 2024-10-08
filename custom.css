@@ -44,3 +44,7 @@ div[class^='ItemDetail_content'], ul[class*='ItemDetail_content']{
     color: black;
 }
 
+div[class^='Tags_tags'], ul[class*='Tags_tags']{
+    max-width: 800px;
+}
+

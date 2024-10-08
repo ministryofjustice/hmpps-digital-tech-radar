@@ -1,7 +1,7 @@
 {
   "basePath": "/techradar",
   "baseUrl": "",
-  "editUrl": "https://github.dev/AOEpeople/techradar/blob/main/radar/{release}/{id}.md",
+  "editUrl": "",
   "logoFile": "logo.svg",
   "jsFile": "",
   "toggles": {
@@ -90,7 +90,7 @@
       "description": "New in this version"
     },
     "changed": {
-      "color": "#40a7d1",
+      "color": "#f47738",
       "title": "Changed",
       "titleShort": "C",
       "description": "Recently changed"
