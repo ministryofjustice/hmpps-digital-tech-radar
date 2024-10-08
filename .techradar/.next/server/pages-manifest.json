@@ -1,1 +1,7 @@
-{"/_app":"pages/_app.js","/_document":"pages/_document.js","/404":"pages/404.html","/help-and-about-tech-radar":"pages/help-and-about-tech-radar.html","/overview":"pages/overview.html","/":"pages/index.html","/_error":"pages/_error.js","/[quadrant]/[id]":"pages/[quadrant]/[id].js","/[quadrant]":"pages/[quadrant].js"}
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/[quadrant]/[id]": "pages/[quadrant]/[id].js",
+  "/": "pages/index.js"
+}
