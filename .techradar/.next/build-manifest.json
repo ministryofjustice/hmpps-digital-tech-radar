@@ -1,37 +1,71 @@
 {
   "polyfillFiles": [
-    "static/chunks/polyfills.js"
+    "static/chunks/polyfills-78c92fac7aa8fdd8.js"
   ],
-  "devFiles": [
-    "static/chunks/react-refresh.js"
-  ],
+  "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/development/_buildManifest.js",
-    "static/development/_ssgManifest.js"
+    "static/ZTHoIdsa_t0d03j-gYsm4/_buildManifest.js",
+    "static/ZTHoIdsa_t0d03j-gYsm4/_ssgManifest.js"
   ],
-  "rootMainFiles": [],
+  "rootMainFiles": [
+    "static/chunks/webpack-41950c2d94f5863d.js",
+    "static/chunks/fd9d1056-2821b0f0cabcd8bd.js",
+    "static/chunks/main-app-93bcc9b25c96e907.js"
+  ],
   "pages": {
     "/": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/index.js"
+      "static/chunks/webpack-41950c2d94f5863d.js",
+      "static/chunks/framework-b15f159549d49f6b.js",
+      "static/chunks/main-89915ecd08ae1835.js",
+      "static/css/0b83a4b7b4e6bb63.css",
+      "static/chunks/pages/index-0399700943e34bec.js"
+    ],
+    "/404": [
+      "static/chunks/webpack-41950c2d94f5863d.js",
+      "static/chunks/framework-b15f159549d49f6b.js",
+      "static/chunks/main-89915ecd08ae1835.js",
+      "static/chunks/pages/404-526fa1d4a47501a1.js"
+    ],
+    "/[quadrant]": [
+      "static/chunks/webpack-41950c2d94f5863d.js",
+      "static/chunks/framework-b15f159549d49f6b.js",
+      "static/chunks/main-89915ecd08ae1835.js",
+      "static/css/b51c685333474f02.css",
+      "static/chunks/pages/[quadrant]-cc47e3b749c1897c.js"
     ],
     "/[quadrant]/[id]": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/[quadrant]/[id].js"
+      "static/chunks/webpack-41950c2d94f5863d.js",
+      "static/chunks/framework-b15f159549d49f6b.js",
+      "static/chunks/main-89915ecd08ae1835.js",
+      "static/css/5cf7a2192bd00f43.css",
+      "static/chunks/pages/[quadrant]/[id]-6f3d9c0c991b0c67.js"
     ],
     "/_app": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/css/pages/_app.css",
-      "static/chunks/pages/_app.js"
+      "static/chunks/webpack-41950c2d94f5863d.js",
+      "static/chunks/framework-b15f159549d49f6b.js",
+      "static/chunks/main-89915ecd08ae1835.js",
+      "static/css/ff597078f9b1e320.css",
+      "static/chunks/pages/_app-a6e6a954978e2884.js"
     ],
     "/_error": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_error.js"
+      "static/chunks/webpack-41950c2d94f5863d.js",
+      "static/chunks/framework-b15f159549d49f6b.js",
+      "static/chunks/main-89915ecd08ae1835.js",
+      "static/chunks/pages/_error-1be831200e60c5c0.js"
+    ],
+    "/help-and-about-tech-radar": [
+      "static/chunks/webpack-41950c2d94f5863d.js",
+      "static/chunks/framework-b15f159549d49f6b.js",
+      "static/chunks/main-89915ecd08ae1835.js",
+      "static/chunks/pages/help-and-about-tech-radar-bc87f88a89431933.js"
+    ],
+    "/overview": [
+      "static/chunks/webpack-41950c2d94f5863d.js",
+      "static/chunks/framework-b15f159549d49f6b.js",
+      "static/chunks/main-89915ecd08ae1835.js",
+      "static/css/ab3f15f76a5dfd66.css",
+      "static/chunks/pages/overview-10d3a3e1fb5181c8.js"
     ]
   },
   "ampFirstPages": []
