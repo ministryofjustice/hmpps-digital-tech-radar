@@ -18,7 +18,6 @@
     "Monitoring and Alerts",
     "Testing and Quality Assurance",
     "Version Control and Code Management",
-    "hmpp",
     "hmpps"
   ],
   "items": [
@@ -36,8 +35,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        209,
-        141
+        101,
+        279
       ]
     },
     {
@@ -54,8 +53,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        461,
-        651
+        568,
+        555
       ]
     },
     {
@@ -72,8 +71,8 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        503,
-        283
+        459,
+        360
       ]
     },
     {
@@ -90,8 +89,8 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        547,
-        313
+        485,
+        347
       ]
     },
     {
@@ -109,8 +108,8 @@
         "AWS"
       ],
       "position": [
-        240,
-        461
+        295,
+        433
       ]
     },
     {
@@ -127,8 +126,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        96,
-        307
+        221,
+        139
       ]
     },
     {
@@ -145,8 +144,8 @@
         "DevOps and Continuous Integration"
       ],
       "position": [
-        767,
-        511
+        592,
+        725
       ]
     },
     {
@@ -163,8 +162,8 @@
         "Monitoring and Alerts"
       ],
       "position": [
-        428,
-        419
+        478,
+        514
       ]
     },
     {
@@ -182,8 +181,8 @@
         "AWS"
       ],
       "position": [
-        265,
-        516
+        365,
+        473
       ]
     },
     {
@@ -200,8 +199,8 @@
         "Cloud and Infrastructure"
       ],
       "position": [
-        317,
-        769
+        307,
+        751
       ]
     },
     {
@@ -218,8 +217,8 @@
         "Cloud and Infrastructure"
       ],
       "position": [
-        175,
-        626
+        117,
+        538
       ]
     },
     {
@@ -236,8 +235,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        435,
-        289
+        477,
+        265
       ]
     },
     {
@@ -255,8 +254,8 @@
         "AWS"
       ],
       "position": [
-        209,
-        721
+        170,
+        677
       ]
     },
     {
@@ -273,8 +272,8 @@
         "Frontend Tools"
       ],
       "position": [
-        599,
-        638
+        574,
+        671
       ]
     },
     {
@@ -291,8 +290,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        30,
-        306
+        205,
+        72
       ]
     },
     {
@@ -309,8 +308,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        343,
-        262
+        233,
+        337
       ]
     },
     {
@@ -327,8 +326,8 @@
         "DevOps and Continuous Integration"
       ],
       "position": [
-        455,
-        521
+        414,
+        472
       ]
     },
     {
@@ -345,8 +344,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        290,
-        457
+        354,
+        443
       ]
     },
     {
@@ -363,8 +362,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        561,
-        217
+        599,
+        297
       ]
     },
     {
@@ -381,8 +380,8 @@
         "Authentication and Security"
       ],
       "position": [
-        527,
-        333
+        503,
+        283
       ]
     },
     {
@@ -399,8 +398,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        286,
-        355
+        261,
+        374
       ]
     },
     {
@@ -417,8 +416,8 @@
         "DevOps and Continuous Integration"
       ],
       "position": [
-        506,
-        321
+        415,
+        348
       ]
     },
     {
@@ -435,8 +434,8 @@
         "DevOps and Continuous Integration"
       ],
       "position": [
-        437,
-        568
+        443,
+        488
       ]
     },
     {
@@ -453,8 +452,8 @@
         "DevOps and Continuous Integration"
       ],
       "position": [
-        344,
-        546
+        261,
+        465
       ]
     },
     {
@@ -471,8 +470,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        565,
-        462
+        449,
+        512
       ]
     },
     {
@@ -489,8 +488,8 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        443,
-        341
+        525,
+        303
       ]
     },
     {
@@ -503,13 +502,13 @@
       "featured": true,
       "flag": "default",
       "tags": [
-        "hmpp",
+        "hmpps",
         "Cloud and Infrastructure",
         "AWS"
       ],
       "position": [
-        272,
-        736
+        103,
+        630
       ]
     },
     {
@@ -527,8 +526,8 @@
         "AWS"
       ],
       "position": [
-        47,
-        520
+        148,
+        690
       ]
     },
     {
@@ -546,8 +545,8 @@
         "AWS"
       ],
       "position": [
-        144,
-        680
+        57,
+        569
       ]
     },
     {
@@ -565,8 +564,8 @@
         "AWS"
       ],
       "position": [
-        301,
-        498
+        329,
+        534
       ]
     },
     {
@@ -584,8 +583,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        437,
-        474
+        489,
+        443
       ]
     },
     {
@@ -602,8 +601,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        271,
-        337
+        374,
+        300
       ]
     },
     {
@@ -620,8 +619,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        427,
-        259
+        421,
+        371
       ]
     },
     {
@@ -638,8 +637,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        462,
-        416
+        498,
+        512
       ]
     },
     {
@@ -656,8 +655,8 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        539,
-        368
+        461,
+        339
       ]
     },
     {
@@ -674,8 +673,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        81,
-        339
+        137,
+        236
       ]
     },
     {
@@ -692,8 +691,8 @@
         "Version Control and Code Management"
       ],
       "position": [
-        515,
-        475
+        526,
+        444
       ]
     },
     {
@@ -710,8 +709,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        193,
-        91
+        159,
+        105
       ]
     },
     {
@@ -728,8 +727,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        701,
-        617
+        514,
+        762
       ]
     },
     {
@@ -746,8 +745,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        458,
-        561
+        478,
+        465
       ]
     },
     {
@@ -764,8 +763,8 @@
         "Monitoring and Alerts"
       ],
       "position": [
-        531,
-        459
+        500,
+        479
       ]
     },
     {
@@ -782,8 +781,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        181,
-        202
+        326,
+        103
       ]
     },
     {
@@ -800,8 +799,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        457,
-        713
+        631,
+        587
       ]
     },
     {
@@ -818,8 +817,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        591,
-        720
+        692,
+        651
       ]
     },
     {
@@ -836,8 +835,8 @@
         "API and Integration"
       ],
       "position": [
-        641,
-        331
+        498,
+        162
       ]
     },
     {
@@ -854,8 +853,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        494,
-        456
+        464,
+        482
       ]
     },
     {
@@ -872,8 +871,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        367,
-        317
+        375,
+        387
       ]
     },
     {
@@ -890,8 +889,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        382,
-        343
+        376,
+        350
       ]
     },
     {
@@ -908,8 +907,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        248,
-        367
+        307,
+        252
       ]
     },
     {
@@ -926,8 +925,8 @@
         "Application Servers"
       ],
       "position": [
-        670,
-        675
+        665,
+        674
       ]
     },
     {
@@ -944,8 +943,8 @@
         "DevOps and Continuous Integration"
       ],
       "position": [
-        676,
-        554
+        586,
+        644
       ]
     },
     {
@@ -962,8 +961,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        391,
-        362
+        281,
+        320
       ]
     },
     {
@@ -980,8 +979,8 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        461,
-        296
+        561,
+        318
       ]
     },
     {
@@ -998,8 +997,8 @@
         "Authentication and Security"
       ],
       "position": [
-        604,
-        486
+        615,
+        526
       ]
     },
     {
@@ -1016,8 +1015,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        331,
-        244
+        307,
+        332
       ]
     },
     {
@@ -1036,8 +1035,8 @@
         "AWS"
       ],
       "position": [
-        352,
-        500
+        281,
+        496
       ]
     },
     {
@@ -1055,7 +1054,7 @@
       ],
       "position": [
         618,
-        626
+        633
       ]
     },
     {
@@ -1072,8 +1071,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        267,
-        292
+        351,
+        357
       ]
     },
     {
@@ -1090,8 +1089,8 @@
         "Cloud and Infrastructure"
       ],
       "position": [
-        373,
-        457
+        314,
+        484
       ]
     },
     {
@@ -1108,8 +1107,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        288,
-        764
+        120,
+        663
       ]
     },
     {
@@ -1127,8 +1126,8 @@
         "AWS"
       ],
       "position": [
-        283,
-        628
+        168,
+        445
       ]
     },
     {
@@ -1145,8 +1144,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        150,
-        336
+        157,
+        310
       ]
     },
     {
@@ -1163,8 +1162,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        316,
-        331
+        369,
+        329
       ]
     },
     {
@@ -1181,8 +1180,8 @@
         "Frontend Tools"
       ],
       "position": [
-        328,
-        308
+        304,
+        280
       ]
     },
     {
@@ -1199,8 +1198,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        67,
-        551
+        256,
+        756
       ]
     },
     {
@@ -1218,8 +1217,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        592,
-        535
+        516,
+        599
       ]
     },
     {
@@ -1236,8 +1235,8 @@
         "Monitoring and Alerts"
       ],
       "position": [
-        432,
-        516
+        520,
+        517
       ]
     },
     {
@@ -1254,7 +1253,7 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        484,
+        424,
         303
       ]
     },
@@ -1272,8 +1271,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        321,
-        26
+        96,
+        200
       ]
     },
     {
@@ -1290,8 +1289,8 @@
         "Monitoring and Alerts"
       ],
       "position": [
-        496,
-        513
+        409,
+        432
       ]
     },
     {
@@ -1308,8 +1307,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        270,
-        52
+        298,
+        31
       ]
     },
     {
@@ -1326,8 +1325,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        73,
-        585
+        276,
+        744
       ]
     },
     {
@@ -1344,8 +1343,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        369,
-        539
+        356,
+        517
       ]
     },
     {
@@ -1363,8 +1362,8 @@
         "API and Integration"
       ],
       "position": [
-        528,
-        433
+        446,
+        411
       ]
     },
     {
@@ -1381,8 +1380,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        302,
-        262
+        329,
+        328
       ]
     },
     {
@@ -1399,8 +1398,8 @@
         "Version Control and Code Management"
       ],
       "position": [
-        486,
-        326
+        460,
+        290
       ]
     },
     {
@@ -1417,8 +1416,8 @@
         "Frontend Tools"
       ],
       "position": [
-        411,
-        443
+        525,
+        471
       ]
     },
     {
@@ -1435,8 +1434,8 @@
         "Monitoring and Alerts"
       ],
       "position": [
-        497,
-        491
+        455,
+        439
       ]
     },
     {
@@ -1453,8 +1452,8 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        477,
-        369
+        455,
+        266
       ]
     },
     {
@@ -1471,8 +1470,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        98,
-        193
+        108,
+        174
       ]
     },
     {
@@ -1489,8 +1488,8 @@
         "DevOps and Continuous Integration"
       ],
       "position": [
-        369,
-        519
+        373,
+        543
       ]
     },
     {
@@ -1507,8 +1506,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        250,
-        121
+        153,
+        205
       ]
     },
     {
@@ -1525,8 +1524,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        72,
-        219
+        258,
+        60
       ]
     },
     {
@@ -1543,8 +1542,8 @@
         "API and Integration"
       ],
       "position": [
-        505,
-        360
+        507,
+        370
       ]
     },
     {
@@ -1561,8 +1560,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        169,
-        120
+        113,
+        154
       ]
     },
     {
@@ -1579,8 +1578,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        37,
-        333
+        231,
+        68
       ]
     },
     {
@@ -1597,8 +1596,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        300,
-        196
+        263,
+        185
       ]
     },
     {
@@ -1615,8 +1614,8 @@
         "Frontend Tools"
       ],
       "position": [
-        552,
-        434
+        491,
+        419
       ]
     },
     {
@@ -1633,8 +1632,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        685,
-        645
+        478,
+        770
       ]
     },
     {
@@ -1651,8 +1650,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        118,
-        140
+        41,
+        273
       ]
     },
     {
@@ -1669,8 +1668,8 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        418,
-        340
+        534,
+        327
       ]
     },
     {
@@ -1687,8 +1686,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        321,
-        276
+        273,
+        355
       ]
     },
     {
@@ -1705,8 +1704,8 @@
         "Monitoring and Alerts"
       ],
       "position": [
-        482,
-        420
+        550,
+        487
       ]
     },
     {
@@ -1724,8 +1723,8 @@
         "AWS"
       ],
       "position": [
-        154,
-        473
+        257,
+        605
       ]
     },
     {
@@ -1742,8 +1741,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        309,
-        375
+        251,
+        325
       ]
     },
     {
@@ -1761,8 +1760,8 @@
         "AWS"
       ],
       "position": [
-        332,
-        568
+        270,
+        522
       ]
     },
     {
@@ -1779,8 +1778,8 @@
         "Authentication and Security"
       ],
       "position": [
-        558,
-        607
+        505,
+        627
       ]
     },
     {
@@ -1797,8 +1796,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        747,
-        565
+        763,
+        526
       ]
     },
     {
@@ -1815,8 +1814,8 @@
         "Languages and Frameworks"
       ],
       "position": [
-        370,
-        385
+        329,
+        242
       ]
     },
     {
@@ -1833,8 +1832,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        643,
-        462
+        442,
+        619
       ]
     },
     {
@@ -1851,8 +1850,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        46,
-        498
+        36,
+        497
       ]
     },
     {
@@ -1870,8 +1869,8 @@
         "AWS"
       ],
       "position": [
-        308,
-        436
+        302,
+        521
       ]
     },
     {
@@ -1888,8 +1887,8 @@
         "Frontend Tools"
       ],
       "position": [
-        528,
-        495
+        435,
+        463
       ]
     },
     {
@@ -1906,8 +1905,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        577,
-        362
+        435,
+        347
       ]
     },
     {
@@ -1924,8 +1923,8 @@
         "DevOps and Continuous Integration"
       ],
       "position": [
-        519,
-        535
+        430,
+        557
       ]
     },
     {
@@ -1942,8 +1941,8 @@
         "DevOps and Continuous Integration"
       ],
       "position": [
-        544,
-        666
+        556,
+        681
       ]
     },
     {
@@ -1960,8 +1959,8 @@
         "Application Servers"
       ],
       "position": [
-        638,
-        669
+        614,
+        694
       ]
     },
     {
@@ -1979,8 +1978,8 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        464,
-        244
+        539,
+        366
       ]
     },
     {
@@ -1997,8 +1996,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        330,
-        354
+        320,
+        369
       ]
     },
     {
@@ -2015,8 +2014,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        475,
-        529
+        516,
+        426
       ]
     },
     {
@@ -2033,8 +2032,8 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        670,
-        148
+        764,
+        311
       ]
     },
     {
@@ -2051,8 +2050,8 @@
         "Application Servers"
       ],
       "position": [
-        718,
-        586
+        753,
+        477
       ]
     },
     {
@@ -2069,8 +2068,8 @@
         "Frontend Tools"
       ],
       "position": [
-        517,
-        513
+        545,
+        463
       ]
     },
     {
@@ -2087,8 +2086,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        484,
-        749
+        735,
+        575
       ]
     }
   ]
