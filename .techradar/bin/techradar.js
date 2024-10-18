@@ -156,9 +156,9 @@ if (PARAMETER === "serve") {
 if (PARAMETER === "build") {
   info("Building techradar");
   execSync("npm run build", { stdio: "inherit" });
-  if (fs.existsSync(path.join(CWD, "docs"))) {
-    fs.rmSync(path.join(CWD, "docs"), { recursive: true });
+  if (fs.existsSync(path.join(CWD, "build"))) {
+    fs.rmSync(path.join(CWD, "build"), { recursive: true });
   }
   info(`Copying techradar to ${path.join(CWD, "build")}`);
-  fs.renameSync(path.join(BUILDER_DIR, "out"), path.join(CWD, "docs"));
+  fs.renameSync(path.join(BUILDER_DIR, "out"), path.join(CWD, "build"));
 }
