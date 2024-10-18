@@ -3,16 +3,16 @@
   \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /* cyrillic-ext */
 @font-face {
-  font-family: '__Roboto_817100';
+  font-family: '__Roboto_33dc4f';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
   src: url(/hmpps-digital-tech-radar/_next/static/media/483de911b1a0d258-s.woff2) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
 @font-face {
-  font-family: '__Roboto_817100';
+  font-family: '__Roboto_33dc4f';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -21,7 +21,7 @@
 }
 /* greek-ext */
 @font-face {
-  font-family: '__Roboto_817100';
+  font-family: '__Roboto_33dc4f';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -30,7 +30,7 @@
 }
 /* greek */
 @font-face {
-  font-family: '__Roboto_817100';
+  font-family: '__Roboto_33dc4f';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -39,7 +39,7 @@
 }
 /* vietnamese */
 @font-face {
-  font-family: '__Roboto_817100';
+  font-family: '__Roboto_33dc4f';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -48,34 +48,34 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: '__Roboto_817100';
+  font-family: '__Roboto_33dc4f';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
   src: url(/hmpps-digital-tech-radar/_next/static/media/f1df6186c8d69644-s.woff2) format('woff2');
-  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
 @font-face {
-  font-family: '__Roboto_817100';
+  font-family: '__Roboto_33dc4f';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
   src: url(/hmpps-digital-tech-radar/_next/static/media/120a5a1920781bd0-s.p.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
 @font-face {
-  font-family: '__Roboto_817100';
+  font-family: '__Roboto_33dc4f';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
   src: url(/hmpps-digital-tech-radar/_next/static/media/80b1a0e600ca6d83-s.woff2) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
 @font-face {
-  font-family: '__Roboto_817100';
+  font-family: '__Roboto_33dc4f';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -84,7 +84,7 @@
 }
 /* greek-ext */
 @font-face {
-  font-family: '__Roboto_817100';
+  font-family: '__Roboto_33dc4f';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -93,7 +93,7 @@
 }
 /* greek */
 @font-face {
-  font-family: '__Roboto_817100';
+  font-family: '__Roboto_33dc4f';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -102,7 +102,7 @@
 }
 /* vietnamese */
 @font-face {
-  font-family: '__Roboto_817100';
+  font-family: '__Roboto_33dc4f';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -111,22 +111,22 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: '__Roboto_817100';
+  font-family: '__Roboto_33dc4f';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
   src: url(/hmpps-digital-tech-radar/_next/static/media/7a7012758df5a81e-s.woff2) format('woff2');
-  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
 @font-face {
-  font-family: '__Roboto_817100';
+  font-family: '__Roboto_33dc4f';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
   src: url(/hmpps-digital-tech-radar/_next/static/media/6ebb97b5c9fa4e03-s.p.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}@font-face {font-family: '__Roboto_Fallback_817100';src: local("Arial");ascent-override: 92.98%;descent-override: 24.47%;line-gap-override: 0.00%;size-adjust: 99.78%
-}.__className_817100 {font-family: '__Roboto_817100', '__Roboto_Fallback_817100';font-style: normal
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}@font-face {font-family: '__Roboto_Fallback_33dc4f';src: local("Arial");ascent-override: 92.98%;descent-override: 24.47%;line-gap-override: 0.00%;size-adjust: 99.78%
+}.__className_33dc4f {font-family: '__Roboto_33dc4f', '__Roboto_Fallback_33dc4f';font-style: normal
 }
 
