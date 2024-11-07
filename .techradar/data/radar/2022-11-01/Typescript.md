@@ -1,5 +1,5 @@
 ---
-title: "Typescript"
+title: "TypeScript"
 quadrant: "languages-and-frameworks"
 ring: "adopt"
 tags: [hmpps, Languages and frameworks]

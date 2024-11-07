@@ -1,6 +1,7 @@
 {
   "releases": [
-    "2022-11-01"
+    "2022-11-01",
+    "2024-10-01"
   ],
   "tags": [
     "API and Integration",
@@ -13,7 +14,6 @@
     "DevOps and Continuous Integration",
     "Development Practices and Methodologies",
     "Frontend Tools",
-    "Languages and Frameworks",
     "Languages and frameworks",
     "Monitoring and Alerts",
     "Testing and Quality Assurance",
@@ -35,26 +35,33 @@
         "Languages and frameworks"
       ],
       "position": [
-        91,
-        312
+        268,
+        110
       ]
     },
     {
       "id": "ADO",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "ADO",
-      "ring": "trial",
+      "ring": "reduce",
       "quadrant": "tools",
-      "body": "<p>ActiveX Data Objects is a Microsoft technology that enables developers to access and manipulate data from various sources, such as databases and files, in a uniform manner. ADO provides a set of COM (Component Object Model) interfaces for data access, allowing for operations like querying, updating, and managing data connections.</p>\n",
-      "featured": true,
-      "flag": "default",
+      "body": "<p>Removed from radar -  no use case currently.</p>\n",
+      "featured": false,
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Databases and Data Management"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "trial",
+          "body": "<p>ActiveX Data Objects is a Microsoft technology that enables developers to access and manipulate data from various sources, such as databases and files, in a uniform manner. ADO provides a set of COM (Component Object Model) interfaces for data access, allowing for operations like querying, updating, and managing data connections.</p>\n"
+        }
+      ],
       "position": [
-        476,
-        627
+        637,
+        696
       ]
     },
     {
@@ -71,8 +78,8 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        492,
-        296
+        474,
+        266
       ]
     },
     {
@@ -89,8 +96,8 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        421,
-        318
+        437,
+        319
       ]
     },
     {
@@ -108,8 +115,8 @@
         "AWS"
       ],
       "position": [
-        272,
-        465
+        250,
+        478
       ]
     },
     {
@@ -126,8 +133,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        279,
-        116
+        196,
+        157
       ]
     },
     {
@@ -144,8 +151,8 @@
         "DevOps and Continuous Integration"
       ],
       "position": [
-        731,
-        584
+        736,
+        535
       ]
     },
     {
@@ -162,8 +169,26 @@
         "Monitoring and Alerts"
       ],
       "position": [
-        465,
-        553
+        555,
+        499
+      ]
+    },
+    {
+      "id": "Opensearch",
+      "release": "2024-10-01",
+      "title": "AWS Opensearch",
+      "ring": "adopt",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>AWS OpenSearch is a managed service that makes it easy to deploy, operate, and scale OpenSearch and Elasticsearch clusters in the cloud. It provides search, real-time analytics, and visualisation capabilities for log, monitoring, and operational data, with built-in security, scalability, and integration with other AWS services.</p>\n",
+      "featured": true,
+      "flag": "new",
+      "tags": [
+        "hmpps",
+        "Cloud and Infrastructure"
+      ],
+      "position": [
+        365,
+        559
       ]
     },
     {
@@ -181,8 +206,8 @@
         "AWS"
       ],
       "position": [
-        298,
-        552
+        308,
+        465
       ]
     },
     {
@@ -199,8 +224,27 @@
         "Cloud and Infrastructure"
       ],
       "position": [
-        276,
-        748
+        119,
+        655
+      ]
+    },
+    {
+      "id": "Azure_-_EntraID",
+      "release": "2024-10-01",
+      "title": "Azure - EntraID",
+      "ring": "adopt",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>Azure Entra ID (formerly Azure Active Directory) is Microsoft&#39;s cloud-based identity and access management service. It helps organisations manage user identities, authenticate access to apps and services, and ensure security through features like single sign-on (SSO), multi-factor authentication (MFA), and conditional access.</p>\n",
+      "featured": true,
+      "flag": "new",
+      "tags": [
+        "hmpps",
+        "Cloud and Infrastructure",
+        "Authentication and Security"
+      ],
+      "position": [
+        299,
+        526
       ]
     },
     {
@@ -217,8 +261,8 @@
         "Cloud and Infrastructure"
       ],
       "position": [
-        248,
-        668
+        136,
+        568
       ]
     },
     {
@@ -235,8 +279,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        560,
-        350
+        457,
+        330
       ]
     },
     {
@@ -254,8 +298,8 @@
         "AWS"
       ],
       "position": [
-        87,
-        589
+        145,
+        677
       ]
     },
     {
@@ -272,8 +316,8 @@
         "Frontend Tools"
       ],
       "position": [
-        680,
-        530
+        517,
+        688
       ]
     },
     {
@@ -290,26 +334,33 @@
         "Languages and frameworks"
       ],
       "position": [
-        73,
-        216
+        217,
+        81
       ]
     },
     {
       "id": "Chai_(testing)",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "Chai",
-      "ring": "adopt",
+      "ring": "hold",
       "quadrant": "languages-and-frameworks",
-      "body": "<p>Chai is a popular assertion library for JavaScript used in testing applications. It provides a variety of assertion styles (like BDD, TDD, and assert) that allow developers to write clear and expressive tests. Chai can be used with various testing frameworks, such as Mocha, to enhance the testing experience by enabling easy validation of expected outcomes in code.</p>\n",
+      "body": "<p>Moved to Hold - now generally superceded by Jest.</p>\n",
       "featured": true,
-      "flag": "default",
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Testing and Quality Assurance"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "adopt",
+          "body": "<p>Chai is a popular assertion library for JavaScript used in testing applications. It provides a variety of assertion styles (like BDD, TDD, and assert) that allow developers to write clear and expressive tests. Chai can be used with various testing frameworks, such as Mocha, to enhance the testing experience by enabling easy validation of expected outcomes in code.</p>\n"
+        }
+      ],
       "position": [
-        231,
-        363
+        233,
+        138
       ]
     },
     {
@@ -326,8 +377,8 @@
         "DevOps and Continuous Integration"
       ],
       "position": [
-        511,
-        543
+        442,
+        496
       ]
     },
     {
@@ -344,26 +395,33 @@
         "Databases and Data Management"
       ],
       "position": [
-        361,
-        414
+        372,
+        412
       ]
     },
     {
       "id": "Consumer_Driven_Contracts",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "Consumer Driven Contracts",
-      "ring": "trial",
+      "ring": "hold",
       "quadrant": "methods-and-patterns",
-      "body": "<p>Consumer-driven contracts (CDC) in API programming refer to a testing approach where the consumer of an API defines the expectations for how the API should behave. Instead of the API provider dictating the contract, consumers specify their requirements, ensuring that the API meets their needs. This approach promotes better alignment between API consumers and providers, facilitates collaboration, and helps prevent breaking changes during development. It is often used in microservices architectures to enhance the reliability of interactions between services.</p>\n",
+      "body": "<p>Moved to Hold.</p>\n",
       "featured": true,
-      "flag": "default",
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Testing and Quality Assurance"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "trial",
+          "body": "<p>Consumer-driven contracts (CDC) in API programming refer to a testing approach where the consumer of an API defines the expectations for how the API should behave. Instead of the API provider dictating the contract, consumers specify their requirements, ensuring that the API meets their needs. This approach promotes better alignment between API consumers and providers, facilitates collaboration, and helps prevent breaking changes during development. It is often used in microservices architectures to enhance the reliability of interactions between services.</p>\n"
+        }
+      ],
       "position": [
-        626,
-        282
+        541,
+        110
       ]
     },
     {
@@ -380,8 +438,8 @@
         "Authentication and Security"
       ],
       "position": [
-        492,
-        242
+        439,
+        297
       ]
     },
     {
@@ -398,8 +456,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        344,
-        368
+        347,
+        240
       ]
     },
     {
@@ -416,8 +474,8 @@
         "DevOps and Continuous Integration"
       ],
       "position": [
-        422,
-        342
+        480,
+        321
       ]
     },
     {
@@ -434,8 +492,8 @@
         "DevOps and Continuous Integration"
       ],
       "position": [
-        498,
-        444
+        497,
+        471
       ]
     },
     {
@@ -452,8 +510,8 @@
         "DevOps and Continuous Integration"
       ],
       "position": [
-        299,
-        513
+        238,
+        437
       ]
     },
     {
@@ -470,8 +528,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        517,
-        463
+        469,
+        542
       ]
     },
     {
@@ -488,8 +546,8 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        502,
-        380
+        533,
+        330
       ]
     },
     {
@@ -507,8 +565,8 @@
         "AWS"
       ],
       "position": [
-        36,
-        487
+        110,
+        627
       ]
     },
     {
@@ -526,8 +584,8 @@
         "AWS"
       ],
       "position": [
-        62,
-        549
+        59,
+        577
       ]
     },
     {
@@ -545,8 +603,8 @@
         "AWS"
       ],
       "position": [
-        46,
-        533
+        284,
+        761
       ]
     },
     {
@@ -564,8 +622,8 @@
         "AWS"
       ],
       "position": [
-        360,
-        579
+        351,
+        518
       ]
     },
     {
@@ -583,8 +641,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        482,
-        469
+        537,
+        523
       ]
     },
     {
@@ -601,8 +659,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        353,
-        256
+        299,
+        269
       ]
     },
     {
@@ -619,8 +677,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        426,
-        268
+        497,
+        362
       ]
     },
     {
@@ -637,8 +695,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        507,
-        515
+        475,
+        419
       ]
     },
     {
@@ -655,8 +713,8 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        420,
-        368
+        496,
+        259
       ]
     },
     {
@@ -673,8 +731,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        141,
-        218
+        113,
+        268
       ]
     },
     {
@@ -691,26 +749,88 @@
         "Version Control and Code Management"
       ],
       "position": [
-        457,
-        472
+        516,
+        544
+      ]
+    },
+    {
+      "id": "Github actions",
+      "release": "2024-10-01",
+      "title": "Github actions",
+      "ring": "trial",
+      "quadrant": "tools",
+      "body": "<p>GitHub Actions is a CI/CD automation tool within GitHub that enables you to build, test, and deploy code automatically. It allows you to create workflows triggered by events like pushes, pull requests, or scheduled times, using YAML configuration files. With GitHub Actions, you can integrate with external services, automate tasks, and manage complex pipelines directly in your GitHub repository.</p>\n",
+      "featured": true,
+      "flag": "new",
+      "tags": [
+        "hmpps",
+        "Version Control and Code Management"
+      ],
+      "position": [
+        492,
+        602
+      ]
+    },
+    {
+      "id": "Renovate",
+      "release": "2024-10-01",
+      "title": "Github actions",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "body": "<p>Renovate is an automated tool that manages dependency updates. It scans codebases for outdated dependencies, submits pull requests to update them, and applies version control, helping maintain security, compatibility, and performance across projects.</p>\n",
+      "featured": true,
+      "flag": "new",
+      "tags": [
+        "hmpps",
+        "Version Control and Code Management",
+        "Authentication and Security"
+      ],
+      "position": [
+        463,
+        518
+      ]
+    },
+    {
+      "id": "Github Copilot",
+      "release": "2024-10-01",
+      "title": "Github copilot",
+      "ring": "trial",
+      "quadrant": "tools",
+      "body": "<p>GitHub Copilot is an AI-powered coding assistant developed by GitHub and OpenAI. Integrated into code editors like Intellij, it suggests code snippets, functions, and even whole lines as you type, based on natural language prompts or existing code. Copilot learns from public code repositories, helping developers speed up coding, explore new libraries, and reduce repetitive work.</p>\n",
+      "featured": true,
+      "flag": "new",
+      "tags": [
+        "hmpps",
+        "Development Practices and Methodologies"
+      ],
+      "position": [
+        450,
+        652
       ]
     },
     {
       "id": "GoLang",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "GoLang",
       "ring": "reduce",
       "quadrant": "languages-and-frameworks",
-      "body": "<p>Go, often referred to as Golang, is an open-source programming language developed by Google. It is designed for simplicity, efficiency, and strong support for concurrent programming, making it well-suited for building scalable and high-performance applications, particularly in cloud computing and web services.</p>\n",
-      "featured": true,
-      "flag": "default",
+      "body": "<p>Removed from radar -  no use case currently.</p>\n",
+      "featured": false,
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Languages and frameworks"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "reduce",
+          "body": "<p>Go, often referred to as Golang, is an open-source programming language developed by Google. It is designed for simplicity, efficiency, and strong support for concurrent programming, making it well-suited for building scalable and high-performance applications, particularly in cloud computing and web services.</p>\n"
+        }
+      ],
       "position": [
-        55,
-        283
+        160,
+        102
       ]
     },
     {
@@ -727,8 +847,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        763,
-        521
+        485,
+        770
       ]
     },
     {
@@ -745,8 +865,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        449,
-        423
+        561,
+        465
       ]
     },
     {
@@ -763,8 +883,8 @@
         "Monitoring and Alerts"
       ],
       "position": [
-        522,
-        437
+        545,
+        450
       ]
     },
     {
@@ -781,8 +901,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        195,
-        158
+        297,
+        123
       ]
     },
     {
@@ -799,8 +919,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        682,
-        559
+        699,
+        471
       ]
     },
     {
@@ -817,26 +937,33 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        550,
-        752
+        771,
+        470
       ]
     },
     {
       "id": "Hateoas_(Ext_APIS)",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "Hateoas (Ext APIS)",
-      "ring": "trial",
+      "ring": "reduce",
       "quadrant": "methods-and-patterns",
-      "body": "<p>HATEOAS (Hypermedia as the Engine of Application State) is a constraint of the REST application architecture that allows clients to interact with a network application entirely through hypermedia provided dynamically by the server. It enables clients to discover available actions and resources by following links embedded in the responses, thereby promoting a more flexible and decoupled interaction between clients and servers.</p>\n",
-      "featured": true,
-      "flag": "default",
+      "body": "<p>Removed from radar -  no use case currently.</p>\n",
+      "featured": false,
+      "flag": "changed",
       "tags": [
         "hmpps",
         "API and Integration"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "trial",
+          "body": "<p>HATEOAS (Hypermedia as the Engine of Application State) is a constraint of the REST application architecture that allows clients to interact with a network application entirely through hypermedia provided dynamically by the server. It enables clients to discover available actions and resources by following links embedded in the responses, thereby promoting a more flexible and decoupled interaction between clients and servers.</p>\n"
+        }
+      ],
       "position": [
-        592,
-        237
+        627,
+        102
       ]
     },
     {
@@ -853,26 +980,33 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        430,
-        456
+        421,
+        513
       ]
     },
     {
       "id": "Java",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "Java",
-      "ring": "adopt",
+      "ring": "hold",
       "quadrant": "languages-and-frameworks",
-      "body": "<p>Java is a high-level, object-oriented programming language designed to be platform-independent through the use of the Java Virtual Machine (JVM). It is widely used for building web applications, mobile apps, and enterprise software due to its simplicity, security features, and robustness. Java follows the &quot;write once, run anywhere&quot; (WORA) principle, allowing code to run on any device that has the JVM installed.</p>\n",
+      "body": "<p>Moved to Hold as our preferred approach is to use Kotlin for our services.</p>\n",
       "featured": true,
-      "flag": "default",
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Languages and frameworks"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "adopt",
+          "body": "<p>Java is a high-level, object-oriented programming language designed to be platform-independent through the use of the Java Virtual Machine (JVM). It is widely used for building web applications, mobile apps, and enterprise software due to its simplicity, security features, and robustness. Java follows the &quot;write once, run anywhere&quot; (WORA) principle, allowing code to run on any device that has the JVM installed.</p>\n"
+        }
+      ],
       "position": [
-        368,
-        223
+        162,
+        206
       ]
     },
     {
@@ -889,44 +1023,58 @@
         "Languages and frameworks"
       ],
       "position": [
-        344,
-        296
+        332,
+        361
       ]
     },
     {
       "id": "Javascript_(JS)",
-      "release": "2022-11-01",
-      "title": "Javascript (JS)",
-      "ring": "adopt",
+      "release": "2024-10-01",
+      "title": "JavaScript (JS)",
+      "ring": "hold",
       "quadrant": "languages-and-frameworks",
-      "body": "<p>JavaScript is a high-level, dynamic programming language commonly used for creating interactive and dynamic content on websites. It allows developers to implement complex features, such as animations, form validation, and asynchronous communication, enhancing user experience on web pages.</p>\n",
+      "body": "<p>Moved to Hold. For our JavaScript applications we encourage the use of TypeScript where possible.</p>\n",
       "featured": true,
-      "flag": "default",
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Languages and frameworks"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "adopt",
+          "body": "<p>JavaScript is a high-level, dynamic programming language commonly used for creating interactive and dynamic content on websites. It allows developers to implement complex features, such as animations, form validation, and asynchronous communication, enhancing user experience on web pages.</p>\n"
+        }
+      ],
       "position": [
-        371,
-        302
+        86,
+        341
       ]
     },
     {
       "id": "JBoss_(WildFly)",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "JBoss (WildFly)",
       "ring": "reduce",
       "quadrant": "tools",
-      "body": "<p>JBoss WildFly is an open-source Java application server that implements the Java EE (Enterprise Edition) specifications. It provides a runtime environment for developing and deploying enterprise-level applications, offering features like scalability, security, and support for modern Java frameworks and APIs. WildFly is known for its modularity, lightweight footprint, and fast startup times.</p>\n",
-      "featured": true,
-      "flag": "default",
+      "body": "<p>Removed from radar - not currently in use</p>\n",
+      "featured": false,
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Application Servers"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "reduce",
+          "body": "<p>JBoss WildFly is an open-source Java application server that implements the Java EE (Enterprise Edition) specifications. It provides a runtime environment for developing and deploying enterprise-level applications, offering features like scalability, security, and support for modern Java frameworks and APIs. WildFly is known for its modularity, lightweight footprint, and fast startup times.</p>\n"
+        }
+      ],
       "position": [
-        595,
-        719
+        721,
+        601
       ]
     },
     {
@@ -943,8 +1091,8 @@
         "DevOps and Continuous Integration"
       ],
       "position": [
-        647,
-        566
+        551,
+        681
       ]
     },
     {
@@ -961,8 +1109,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        369,
-        281
+        306,
+        348
       ]
     },
     {
@@ -979,26 +1127,33 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        452,
-        322
+        543,
+        357
       ]
     },
     {
       "id": "Keycloak",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "Keycloak",
-      "ring": "trial",
+      "ring": "reduce",
       "quadrant": "tools",
-      "body": "<p>An open source software product to allow single sign-on with Identity Management and Access Management aimed at modern applications and services.</p>\n",
-      "featured": true,
-      "flag": "default",
+      "body": "<p>Removed from radar - our use case for this is covered by <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://github.com/ministryofjustice/hmpps-auth\">HMPPS Auth</a>.</p>\n",
+      "featured": false,
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Authentication and Security"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "trial",
+          "body": "<p>An open source software product to allow single sign-on with Identity Management and Access Management aimed at modern applications and services.</p>\n"
+        }
+      ],
       "position": [
-        646,
-        469
+        537,
+        753
       ]
     },
     {
@@ -1015,8 +1170,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        289,
-        310
+        263,
+        289
       ]
     },
     {
@@ -1035,8 +1190,8 @@
         "AWS"
       ],
       "position": [
-        354,
-        476
+        370,
+        472
       ]
     },
     {
@@ -1053,26 +1208,33 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        474,
-        692
+        636,
+        615
       ]
     },
     {
       "id": "Mocha_(testing)",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "Mocha",
-      "ring": "adopt",
+      "ring": "hold",
       "quadrant": "languages-and-frameworks",
-      "body": "<p>Mocha is a popular JavaScript test framework that runs on Node.js and in the browser, allowing developers to write and execute asynchronous tests. It provides a flexible structure for organizing tests and supports various assertion libraries, making it easy to create unit and integration tests for JavaScript applications.</p>\n",
+      "body": "<p>Moved to Hold - now generally superceded by Jest.</p>\n",
       "featured": true,
-      "flag": "default",
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Testing and Quality Assurance"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "adopt",
+          "body": "<p>Mocha is a popular JavaScript test framework that runs on Node.js and in the browser, allowing developers to write and execute asynchronous tests. It provides a flexible structure for organizing tests and supports various assertion libraries, making it easy to create unit and integration tests for JavaScript applications.</p>\n"
+        }
+      ],
       "position": [
-        322,
-        348
+        222,
+        166
       ]
     },
     {
@@ -1089,8 +1251,8 @@
         "Cloud and Infrastructure"
       ],
       "position": [
-        309,
-        446
+        268,
+        439
       ]
     },
     {
@@ -1107,27 +1269,34 @@
         "Databases and Data Management"
       ],
       "position": [
-        159,
-        688
+        187,
+        712
       ]
     },
     {
       "id": "MSK_(Kafka)",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "MSK (Kafka)",
-      "ring": "trial",
+      "ring": "reduce",
       "quadrant": "platforms-and-operations",
-      "body": "<p>MSK Kafka (Amazon Managed Streaming for Apache Kafka) is a fully managed service by Amazon Web Services (AWS) that simplifies the setup, scaling, and management of Apache Kafka, an open-source platform for building real-time streaming data pipelines and applications. MSK enables users to easily stream data between different applications and services, providing a scalable and reliable way to process and analyze large volumes of data in real time.</p>\n",
-      "featured": true,
-      "flag": "default",
+      "body": "<p>Removed from radar -  no use case currently.</p>\n",
+      "featured": false,
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Cloud and Infrastructure",
         "AWS"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "trial",
+          "body": "<p>MSK Kafka (Amazon Managed Streaming for Apache Kafka) is a fully managed service by Amazon Web Services (AWS) that simplifies the setup, scaling, and management of Apache Kafka, an open-source platform for building real-time streaming data pipelines and applications. MSK enables users to easily stream data between different applications and services, providing a scalable and reliable way to process and analyze large volumes of data in real time.</p>\n"
+        }
+      ],
       "position": [
-        257,
-        572
+        265,
+        751
       ]
     },
     {
@@ -1144,8 +1313,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        177,
-        325
+        172,
+        331
       ]
     },
     {
@@ -1162,8 +1331,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        230,
-        327
+        288,
+        325
       ]
     },
     {
@@ -1180,8 +1349,8 @@
         "Frontend Tools"
       ],
       "position": [
-        332,
-        259
+        388,
+        344
       ]
     },
     {
@@ -1198,8 +1367,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        197,
-        704
+        57,
+        538
       ]
     },
     {
@@ -1217,8 +1386,8 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        590,
-        552
+        617,
+        463
       ]
     },
     {
@@ -1235,8 +1404,8 @@
         "Monitoring and Alerts"
       ],
       "position": [
-        437,
-        504
+        494,
+        541
       ]
     },
     {
@@ -1253,26 +1422,33 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        545,
-        309
+        550,
+        295
       ]
     },
     {
       "id": "PHP",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "PHP",
       "ring": "reduce",
       "quadrant": "languages-and-frameworks",
-      "body": "<p>A server scripting language, and a powerful tool for making dynamic and interactive Web pages.</p>\n",
-      "featured": true,
-      "flag": "default",
+      "body": "<p>Removed from radar -  no use case currently.</p>\n",
+      "featured": false,
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Languages and frameworks"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "reduce",
+          "body": "<p>A server scripting language, and a powerful tool for making dynamic and interactive Web pages.</p>\n"
+        }
+      ],
       "position": [
-        333,
-        47
+        59,
+        265
       ]
     },
     {
@@ -1289,8 +1465,8 @@
         "Monitoring and Alerts"
       ],
       "position": [
-        567,
-        448
+        510,
+        442
       ]
     },
     {
@@ -1307,8 +1483,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        53,
-        253
+        125,
+        134
       ]
     },
     {
@@ -1325,8 +1501,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        218,
-        728
+        319,
+        749
       ]
     },
     {
@@ -1343,8 +1519,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        279,
-        510
+        285,
+        423
       ]
     },
     {
@@ -1362,8 +1538,8 @@
         "API and Integration"
       ],
       "position": [
-        431,
-        537
+        467,
+        472
       ]
     },
     {
@@ -1380,8 +1556,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        273,
-        324
+        359,
+        277
       ]
     },
     {
@@ -1398,8 +1574,8 @@
         "Version Control and Code Management"
       ],
       "position": [
-        483,
-        270
+        443,
+        220
       ]
     },
     {
@@ -1416,8 +1592,8 @@
         "Frontend Tools"
       ],
       "position": [
-        452,
-        530
+        492,
+        431
       ]
     },
     {
@@ -1434,8 +1610,8 @@
         "Monitoring and Alerts"
       ],
       "position": [
-        543,
-        496
+        573,
+        445
       ]
     },
     {
@@ -1452,26 +1628,33 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        461,
-        276
+        516,
+        342
       ]
     },
     {
       "id": "Python",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "Python",
-      "ring": "reduce",
+      "ring": "hold",
       "quadrant": "languages-and-frameworks",
-      "body": "<p>A programming language that lets you work quickly and integrate systems more effectively.</p>\n",
+      "body": "<p>In use in the HMPPS Core Person Record team for specialist cases but not in general adoption.</p>\n",
       "featured": true,
-      "flag": "default",
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Languages and frameworks"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "reduce",
+          "body": "<p>Python is a programming language widely used for web development, data analysis, automation, artificial intelligence, and scientific computing due to its large ecosystem of libraries and frameworks. Its clear syntax and dynamic typing make it beginner-friendly and versatile for both small scripts and large applications.</p>\n"
+        }
+      ],
       "position": [
-        145,
-        113
+        105,
+        311
       ]
     },
     {
@@ -1488,8 +1671,8 @@
         "DevOps and Continuous Integration"
       ],
       "position": [
-        232,
-        433
+        308,
+        547
       ]
     },
     {
@@ -1506,8 +1689,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        168,
-        176
+        338,
+        85
       ]
     },
     {
@@ -1524,8 +1707,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        105,
-        155
+        73,
+        209
       ]
     },
     {
@@ -1542,8 +1725,8 @@
         "API and Integration"
       ],
       "position": [
-        502,
-        338
+        446,
+        370
       ]
     },
     {
@@ -1560,44 +1743,58 @@
         "Languages and frameworks"
       ],
       "position": [
-        285,
-        40
+        300,
+        34
       ]
     },
     {
       "id": "Ruby_Rails",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "Ruby Rails",
-      "ring": "reduce",
+      "ring": "hold",
       "quadrant": "languages-and-frameworks",
-      "body": "<p>A web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC).</p>\n",
+      "body": "<p>In use by our <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://github.com/ministryofjustice/hmpps-book-secure-move-api\">Book a Secure Move</a> service but not in general adoption.</p>\n",
       "featured": true,
-      "flag": "default",
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Languages and frameworks"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "reduce",
+          "body": "<p>A web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC).</p>\n"
+        }
+      ],
       "position": [
-        146,
-        133
+        308,
+        99
       ]
     },
     {
       "id": "Rust",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "Rust",
-      "ring": "trial",
+      "ring": "reduce",
       "quadrant": "languages-and-frameworks",
-      "body": "<p>A language empowering everyone to build reliable and efficient software.</p>\n",
-      "featured": true,
-      "flag": "default",
+      "body": "<p>Removed from radar -  no use case currently.</p>\n",
+      "featured": false,
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Languages and frameworks"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "trial",
+          "body": "<p>A language empowering everyone to build reliable and efficient software.</p>\n"
+        }
+      ],
       "position": [
-        193,
-        291
+        177,
+        91
       ]
     },
     {
@@ -1614,8 +1811,8 @@
         "Frontend Tools"
       ],
       "position": [
-        474,
-        426
+        521,
+        480
       ]
     },
     {
@@ -1632,8 +1829,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        685,
-        650
+        672,
+        668
       ]
     },
     {
@@ -1650,8 +1847,8 @@
         "Languages and frameworks"
       ],
       "position": [
-        229,
-        59
+        235,
+        68
       ]
     },
     {
@@ -1668,26 +1865,33 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        435,
-        245
+        469,
+        368
       ]
     },
     {
       "id": "Selenium",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "Selenium",
-      "ring": "adopt",
+      "ring": "hold",
       "quadrant": "languages-and-frameworks",
-      "body": "<p>Selenium is an open-source framework used for automating web applications for testing purposes. It allows developers to write tests in various programming languages (such as Java, Python, and C#) to simulate user interactions with web browsers, ensuring that web applications function correctly across different platforms and browsers.</p>\n",
+      "body": "<p>Moved to Hold.</p>\n",
       "featured": true,
-      "flag": "default",
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Testing and Quality Assurance"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "adopt",
+          "body": "<p>Selenium is an open-source framework used for automating web applications for testing purposes. It allows developers to write tests in various programming languages (such as Java, Python, and C#) to simulate user interactions with web browsers, ensuring that web applications function correctly across different platforms and browsers.</p>\n"
+        }
+      ],
       "position": [
-        269,
-        374
+        133,
+        226
       ]
     },
     {
@@ -1704,45 +1908,77 @@
         "Monitoring and Alerts"
       ],
       "position": [
-        548,
-        474
+        456,
+        558
       ]
     },
     {
       "id": "Serverless",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "Serverless",
-      "ring": "trial",
+      "ring": "reduce",
       "quadrant": "platforms-and-operations",
-      "body": "<p>AWS Serverless refers to a cloud computing model offered by Amazon Web Services that allows developers to build and run applications without managing server infrastructure. In this model, resources are automatically allocated and scaled based on demand, enabling developers to focus on writing code while AWS handles the underlying server management, provisioning, and scaling. Key services in the AWS Serverless ecosystem include AWS Lambda, Amazon API Gateway, and AWS Step Functions.</p>\n",
-      "featured": true,
-      "flag": "default",
+      "body": "<p>Not supported by Cloud Platform, no outstanding use case.</p>\n",
+      "featured": false,
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Cloud and Infrastructure",
         "AWS"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "trial",
+          "body": "<p>AWS Serverless refers to a cloud computing model offered by Amazon Web Services that allows developers to build and run applications without managing server infrastructure. In this model, resources are automatically allocated and scaled based on demand, enabling developers to focus on writing code while AWS handles the underlying server management, provisioning, and scaling. Key services in the AWS Serverless ecosystem include AWS Lambda, Amazon API Gateway, and AWS Step Functions.</p>\n"
+        }
+      ],
       "position": [
-        304,
-        642
+        207,
+        714
       ]
     },
     {
-      "id": "Sinon_(testing)",
-      "release": "2022-11-01",
-      "title": "Sinon",
-      "ring": "adopt",
-      "quadrant": "languages-and-frameworks",
-      "body": "<p>Standalone test spies, stubs and mocks for JavaScript.  Works with any unit testing framework.</p>\n",
+      "id": "Shared_libraries",
+      "release": "2024-10-01",
+      "title": "Shared Libraries",
+      "ring": "trial",
+      "quadrant": "methods-and-patterns",
+      "body": "<p>With the creation of so many microservices, it is inevitable that we end up creating similar functionality. Where possible we should look to create shared libraries to enable reuse of common functionality.</p>\n",
       "featured": true,
-      "flag": "default",
+      "flag": "new",
       "tags": [
         "hmpps",
         "Testing and Quality Assurance"
       ],
       "position": [
-        311,
-        266
+        599,
+        238
+      ]
+    },
+    {
+      "id": "Sinon_(testing)",
+      "release": "2024-10-01",
+      "title": "Sinon",
+      "ring": "hold",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>Moved to Hold - now generally superceded by Jest.</p>\n",
+      "featured": true,
+      "flag": "changed",
+      "tags": [
+        "hmpps",
+        "Testing and Quality Assurance"
+      ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "adopt",
+          "body": "<p>Standalone test spies, stubs and mocks for JavaScript.  Works with any unit testing framework.</p>\n"
+        }
+      ],
+      "position": [
+        142,
+        208
       ]
     },
     {
@@ -1760,26 +1996,33 @@
         "AWS"
       ],
       "position": [
-        341,
-        429
+        294,
+        447
       ]
     },
     {
       "id": "Security_-_Snyk",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "Snyk",
-      "ring": "trial",
+      "ring": "reduce",
       "quadrant": "tools",
-      "body": "<p>Snyk is a developer security platform that helps organizations find and fix vulnerabilities in their applications, open-source libraries, containers, and infrastructure as code. It integrates into the development workflow to provide real-time feedback and remediation suggestions, promoting secure coding practices.</p>\n",
-      "featured": true,
-      "flag": "default",
+      "body": "<p>Removed from radar -  no longer in use.</p>\n",
+      "featured": false,
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Authentication and Security"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "trial",
+          "body": "<p>Snyk is a developer security platform that helps organizations find and fix vulnerabilities in their applications, open-source libraries, containers, and infrastructure as code. It integrates into the development workflow to provide real-time feedback and remediation suggestions, promoting secure coding practices.</p>\n"
+        }
+      ],
       "position": [
-        540,
-        588
+        722,
+        574
       ]
     },
     {
@@ -1796,8 +2039,26 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        613,
-        708
+        563,
+        739
+      ]
+    },
+    {
+      "id": "Splink",
+      "release": "2024-10-01",
+      "title": "Splink",
+      "ring": "trial",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>Splink is an open-source Python library for probabilistic record linkage, developed by the UK government’s data science community. It allows users to identify and merge records from different datasets that likely refer to the same entities, such as people or businesses, even when data fields are inconsistent or incomplete.</p>\n",
+      "featured": true,
+      "flag": "new",
+      "tags": [
+        "hmpps",
+        "Languages and frameworks"
+      ],
+      "position": [
+        196,
+        252
       ]
     },
     {
@@ -1811,29 +2072,36 @@
       "flag": "default",
       "tags": [
         "hmpps",
-        "Languages and Frameworks"
+        "Languages and frameworks"
       ],
       "position": [
-        356,
-        352
+        372,
+        239
       ]
     },
     {
       "id": "SQL_Clone",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "SQL Clone",
       "ring": "trial",
       "quadrant": "tools",
-      "body": "<p>A database provisioning tool that lets you create full copies of SQL Server databases and backups in seconds</p>\n",
-      "featured": true,
-      "flag": "default",
+      "body": "<p>Removed from radar -  no use case currently and we can achieve the same using Cloud Platform&#39;s tools.</p>\n",
+      "featured": false,
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Databases and Data Management"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "trial",
+          "body": "<p>A database provisioning tool that lets you create full copies of SQL Server databases and backups in seconds</p>\n"
+        }
+      ],
       "position": [
-        514,
-        592
+        496,
+        629
       ]
     },
     {
@@ -1850,8 +2118,8 @@
         "Databases and Data Management"
       ],
       "position": [
-        97,
-        624
+        239,
+        740
       ]
     },
     {
@@ -1869,8 +2137,8 @@
         "AWS"
       ],
       "position": [
-        357,
-        536
+        297,
+        492
       ]
     },
     {
@@ -1887,8 +2155,8 @@
         "Frontend Tools"
       ],
       "position": [
-        540,
-        517
+        484,
+        559
       ]
     },
     {
@@ -1905,8 +2173,26 @@
         "Testing and Quality Assurance"
       ],
       "position": [
-        533,
-        347
+        495,
+        301
+      ]
+    },
+    {
+      "id": "Template_projects",
+      "release": "2024-10-01",
+      "title": "Template projects",
+      "ring": "trial",
+      "quadrant": "methods-and-patterns",
+      "body": "<p>It is important that we standardise the approach we take when setting up new services, and where appropriate we supply template projects to facilitate this. Currently the two projects most often used are for our backend services using Kotlin - <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://github.com/ministryofjustice/hmpps-template-kotlin\">https://github.com/ministryofjustice/hmpps-template-kotlin</a>, and our frontend services that use TypeScript/NodeJS: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://github.com/ministryofjustice/hmpps-template-typescript\">https://github.com/ministryofjustice/hmpps-template-typescript</a></p>\n",
+      "featured": true,
+      "flag": "new",
+      "tags": [
+        "hmpps",
+        "Testing and Quality Assurance"
+      ],
+      "position": [
+        631,
+        323
       ]
     },
     {
@@ -1923,8 +2209,8 @@
         "DevOps and Continuous Integration"
       ],
       "position": [
-        483,
-        530
+        416,
+        487
       ]
     },
     {
@@ -1941,26 +2227,33 @@
         "DevOps and Continuous Integration"
       ],
       "position": [
-        707,
-        462
+        609,
+        636
       ]
     },
     {
       "id": "Tomcat",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "Tomcat",
       "ring": "reduce",
       "quadrant": "tools",
-      "body": "<p>Apache Tomcat is an open-source web server and servlet container that runs Java-based web applications. It implements the Java Servlet, JavaServer Pages (JSP), and WebSocket technologies, allowing developers to serve dynamic content and run Java code on a server.</p>\n",
+      "body": "<p>Removed from radar - no use case currently</p>\n",
       "featured": true,
-      "flag": "default",
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Application Servers"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "reduce",
+          "body": "<p>Apache Tomcat is an open-source web server and servlet container that runs Java-based web applications. It implements the Java Servlet, JavaServer Pages (JSP), and WebSocket technologies, allowing developers to serve dynamic content and run Java code on a server.</p>\n"
+        }
+      ],
       "position": [
-        512,
-        761
+        758,
+        486
       ]
     },
     {
@@ -1978,14 +2271,14 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        522,
-        274
+        411,
+        371
       ]
     },
     {
       "id": "Typescript",
       "release": "2022-11-01",
-      "title": "Typescript",
+      "title": "TypeScript",
       "ring": "adopt",
       "quadrant": "languages-and-frameworks",
       "body": "<p>TypeScript is a superset of JavaScript that adds static typing to the language. It enables developers to catch errors at compile time rather than runtime, improving code quality and maintainability. TypeScript compiles to plain JavaScript, making it compatible with existing JavaScript code and frameworks.</p>\n",
@@ -1996,8 +2289,26 @@
         "Languages and frameworks"
       ],
       "position": [
-        319,
-        377
+        334,
+        322
+      ]
+    },
+    {
+      "id": "Veracode",
+      "release": "2024-10-01",
+      "title": "Veracode",
+      "ring": "reduce",
+      "quadrant": "tools",
+      "body": "<p>Veracode is a software security platform that provides automated tools for finding, fixing, and preventing vulnerabilities in applications throughout the development lifecycle. It offers static, dynamic, and software composition analysis, enabling developers to identify security risks in code, open-source libraries, and runtime environments.</p>\n",
+      "featured": true,
+      "flag": "new",
+      "tags": [
+        "hmpps",
+        "Authentication and Security"
+      ],
+      "position": [
+        712,
+        623
       ]
     },
     {
@@ -2014,8 +2325,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        489,
-        488
+        438,
+        455
       ]
     },
     {
@@ -2032,26 +2343,33 @@
         "Development Practices and Methodologies"
       ],
       "position": [
-        648,
-        117
+        733,
+        229
       ]
     },
     {
       "id": "Weblogic",
-      "release": "2022-11-01",
+      "release": "2024-10-01",
       "title": "Weblogic",
       "ring": "reduce",
       "quadrant": "tools",
-      "body": "<p>Oracle WebLogic Server is a Java EE application server currently developed by Oracle Corporation.</p>\n",
-      "featured": true,
-      "flag": "default",
+      "body": "<p>Removed from radar - not in use currently.</p>\n",
+      "featured": false,
+      "flag": "changed",
       "tags": [
         "hmpps",
         "Application Servers"
       ],
+      "revisions": [
+        {
+          "release": "2022-11-01",
+          "ring": "reduce",
+          "body": "<p>Oracle WebLogic Server is a Java EE application server currently developed by Oracle Corporation.</p>\n"
+        }
+      ],
       "position": [
-        699,
-        632
+        643,
+        663
       ]
     },
     {
@@ -2068,8 +2386,8 @@
         "Frontend Tools"
       ],
       "position": [
-        441,
-        555
+        424,
+        414
       ]
     },
     {
@@ -2086,8 +2404,8 @@
         "Build Tools and Package Management"
       ],
       "position": [
-        740,
-        542
+        688,
+        655
       ]
     }
   ]

@@ -105,19 +105,15 @@
   },
   "social": [
     {
-      "href": "https://twitter.com/aoepeople",
+      "href": "https://x.com/justice_digital?lang=en",
       "icon": "x"
     },
     {
-      "href": "https://www.linkedin.com/company/aoe",
+      "href": "https://www.linkedin.com/company/justice-digital/posts/?feedView=all",
       "icon": "linkedIn"
     },
     {
-      "href": "https://www.xing.com/company/aoe",
-      "icon": "xing"
-    },
-    {
-      "href": "https://github.com/aoepeople",
+      "href": "https://github.com/ministryofjustice",
       "icon": "github"
     }
   ],
@@ -132,7 +128,7 @@
     "footer": "",
     "notUpdated": "This item was not updated in last three versions of the Radar. Should it have appeared in one of the more recent editions, there is a good chance it remains pertinent. However, if the item dates back further, its relevance may have diminished and our current evaluation could vary.",
     "notFound": "404 - Page not found",
-    "pageAbout": "How to use AOE Technology Radar?",
+    "pageAbout": "About the HMPPS Technology Radar",
     "pageOverview": "Technologies Overview",
     "pageSearch": "Search",
     "searchPlaceholder": "What are you looking for?",
