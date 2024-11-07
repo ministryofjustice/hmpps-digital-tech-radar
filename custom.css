@@ -26,8 +26,8 @@ ul[class^='Navigation_list'] > li:nth-child(1) {
     visibility: hidden;
 }
 
-div[class^='Footer_branding'], ul[class*='Footer_branding']{
-    visibility: hidden;
+ul[class^='SocialLinks_links']{
+    margin-left: auto;
 }
 
 a[class^='Footer_imprint'] {
@@ -46,5 +46,17 @@ div[class^='ItemDetail_content'], ul[class*='ItemDetail_content']{
 
 div[class^='Tags_tags'], ul[class*='Tags_tags']{
     max-width: 800px;
+}
+
+/* colouring for the radar elements */
+
+/* new item */
+svg[class^='Radar_chart'] > g > a > path, ul[class^='Legend_legend'] > li > svg > path {
+    fill: #1db870;
+}
+
+/* updated item */
+svg[class^='Radar_chart'] > g > a > rect, ul[class^='Legend_legend'] > li > svg > rect {
+    fill: #e59d20;
 }
 
