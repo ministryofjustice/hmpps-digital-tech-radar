@@ -2,6 +2,6 @@
 title: "Tomcat"
 quadrant: "tools"
 ring: "reduce"
-featured: "false"
+featured: false
 ---
 Removed from radar - no use case currently
