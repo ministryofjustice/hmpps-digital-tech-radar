@@ -1,5 +1,5 @@
 ---
-title: "Github actions"
+title: "Renovate"
 quadrant: "tools"
 ring: "adopt"
 tags: [hmpps, Version Control and Code Management, Authentication and Security]
